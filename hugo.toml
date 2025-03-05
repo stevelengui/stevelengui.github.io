@@ -1,6 +1,4 @@
 baseURL = 'https://stevelengui.github.io/'
-languageCode = 'en-us'
-title = 'Steve Charnot Lengui L. - RISC-V & Edge AI Expert'
-
-[params]
-  description = "PhD candidate specializing in neuromorphic AI for resource-constrained IoT devices."
+languageCode = 'fr-fr'
+title = 'Mon Site Hugo'
+theme = 'ananke'
