@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Mon Site Hugo</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Mon Site Hugo</description>
-    <generator>Hugo</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is my first blog post. Welcome to my site!&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-points&#34;&gt;Key Points&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Overview of my research.&lt;/li&gt;&#xA;&lt;li&gt;Goals for the future.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Optimizing Edge AI for RISC-V</title>
-      <link>http://localhost:1313/posts/optimizing-edge-ai-for-riscv/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/optimizing-edge-ai-for-riscv/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This post explores techniques for optimizing edge AI models on RISC-V hardware.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-techniques&#34;&gt;Key Techniques&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quantization.&lt;/li&gt;&#xA;&lt;li&gt;Pruning.&lt;/li&gt;&#xA;&lt;li&gt;Hardware-aware optimization.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Déploiement de SNN sur SoC RISC-V</title>
-      <link>http://localhost:1313/posts/deploying-snn-riscv/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/deploying-snn-riscv/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Notre méthode hybride SNN/QNN permet une réduction de 72% de la consommation énergétique sur des benchmarks MLPerf Tiny&amp;hellip;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Exemple de code d&amp;#39;optimisation&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;snn_inference&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;riscv_pulp_io_write&lt;/span&gt;(SNN_CFG, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x1A3F&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;while&lt;/span&gt;(&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;riscv_pulp_io_read&lt;/span&gt;(SNN_STATUS) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0x1&lt;/span&gt;));&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mon Premier Article</title>
-      <link>http://localhost:1313/posts/premier-article/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/premier-article/</guid>
-      <description>&lt;h2 id=&#34;bienvenue-sur-mon-site-&#34;&gt;Bienvenue sur mon site !&lt;/h2&gt;&#xA;&lt;p&gt;Ceci est mon premier article utilisant Hugo et le thème Ananke.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mon Site Hugo</title><link>https://stevelengui.github.io/posts/</link><description>Recent content in Posts on Mon Site Hugo</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stevelengui.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://stevelengui.github.io/posts/my-first-post/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/posts/my-first-post/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This is my first blog post. Welcome to my site!&lt;/p>
+&lt;h3 id="key-points">Key Points&lt;/h3>
+&lt;ul>
+&lt;li>Overview of my research.&lt;/li>
+&lt;li>Goals for the future.&lt;/li>
+&lt;/ul></description></item><item><title>Optimizing Edge AI for RISC-V</title><link>https://stevelengui.github.io/posts/optimizing-edge-ai-for-riscv/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/posts/optimizing-edge-ai-for-riscv/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This post explores techniques for optimizing edge AI models on RISC-V hardware.&lt;/p>
+&lt;h3 id="key-techniques">Key Techniques&lt;/h3>
+&lt;ul>
+&lt;li>Quantization.&lt;/li>
+&lt;li>Pruning.&lt;/li>
+&lt;li>Hardware-aware optimization.&lt;/li>
+&lt;/ul></description></item><item><title>Déploiement de SNN sur SoC RISC-V</title><link>https://stevelengui.github.io/posts/deploying-snn-riscv/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/posts/deploying-snn-riscv/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Notre méthode hybride SNN/QNN permet une réduction de 72% de la consommation énergétique sur des benchmarks MLPerf Tiny&amp;hellip;&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-c" data-lang="c">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">// Exemple de code d&amp;#39;optimisation
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#66d9ef">void&lt;/span> &lt;span style="color:#a6e22e">snn_inference&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">riscv_pulp_io_write&lt;/span>(SNN_CFG, &lt;span style="color:#ae81ff">0x1A3F&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">while&lt;/span>(&lt;span style="color:#f92672">!&lt;/span>(&lt;span style="color:#a6e22e">riscv_pulp_io_read&lt;/span>(SNN_STATUS) &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#ae81ff">0x1&lt;/span>));
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Mon Premier Article</title><link>https://stevelengui.github.io/posts/premier-article/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/posts/premier-article/</guid><description>&lt;h2 id="bienvenue-sur-mon-site-">Bienvenue sur mon site !&lt;/h2>
+&lt;p>Ceci est mon premier article utilisant Hugo et le thème Ananke.&lt;/p></description></item></channel></rss>
