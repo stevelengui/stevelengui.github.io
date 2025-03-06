@@ -2,3 +2,16 @@ baseURL = 'https://stevelengui.github.io/'
 languageCode = 'fr-fr'
 title = 'Mon Site Hugo'
 theme = 'ananke'
+[params]
+  customHead = "partials/custom-head.html"
+  cssVersion = "1.0"
+  description = "Chercheur en Edge AI - SNN/BNN sur RISC-V"
+  github = "stevelengui"
+  linkedin = "Lengui Lengui Steve Charnot"
+  facebook = "Lengui Lengui Steve"
+  email = "steve.lengui@gmail.com"
+
+  [params.logo]
+    url = "D:/Photo Steve.jpg"
+    width = 120
+    height = 40
