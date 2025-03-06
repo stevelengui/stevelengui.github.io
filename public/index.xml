@@ -92,12 +92,5 @@
       <guid>http://localhost:1313/posts/premier-article/</guid>
       <description>&lt;h2 id=&#34;bienvenue-sur-mon-site-&#34;&gt;Bienvenue sur mon site !&lt;/h2&gt;&#xA;&lt;p&gt;Ceci est mon premier article utilisant Hugo et le thème Ananke.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
-      <description>&lt;h2 id=&#34;mes-publications-récentes--recent-publications&#34;&gt;Mes Publications Récentes / Recent Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Efficient Neural Network Implementations on RISC-V Architectures for IoT: A State of the Art and Perspectives for SNN, QNN, and BNN Networks&lt;/strong&gt;&#xA;&lt;em&gt;Elsevier to Microprocessors and Microsystems Journal&lt;/em&gt;&#xA;&lt;a href=&#34;#&#34;&gt;https://acrobat.adobe.com/id/urn:aaid:sc:EU:69c3613d-6de3-4b56-8688-2b69b69b4544&lt;/a&gt;&#xA;&lt;strong&gt;Résumé / Abstract&lt;/strong&gt;: The proliferation of IoT devices necessitates energy-efficient AI solutions that balance computational demands with power constraints.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2025-1&#34;&gt;2025&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Implementation of Hybrid Spiking-Quantized Neural Networks on RISC-V for Resource-Constrained IoT Devices&lt;/strong&gt;&#xA;&lt;em&gt;Elsevier to Microprocessors and Microsystems Journal&lt;/em&gt;&#xA;&lt;a href=&#34;#&#34;&gt;https://acrobat.adobe.com/id/urn:aaid:sc:EU:23d45602-724f-4750-8140-85dd9a8cdd53&lt;/a&gt;&#xA;&lt;strong&gt;Résumé / Abstract&lt;/strong&gt;: This paper presents the implementation of a hybrid Spiking Neural Network (SNN) and Quantized Neural Network (QNN) on RISC-V architecture for resource-constrained IoT devices.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
   </channel>
 </rss>
