@@ -1,39 +1,20 @@
 ---
-title: "À propos"
+title: "À propos / About"
 date: 2023-09-20
 draft: false
 ---
 
-## Steve Lengui - PhD en AI Neuromorphique pour IoT
+## Steve Lengui - PhD in Neuromorphic AI for IoT
 
-🧠 **Recherche en Edge AI**
+🧠 **Research in Edge AI / Recherche en Edge AI**
 
-Je suis doctorant en IA neuromorphique spécialisé dans le déploiement de réseaux de neurones spiking (SNN) et de Binarized Neural Networks (BNN) sur des architectures RISC-V pour des dispositifs IoT à ressources limitées.
+I am a PhD candidate in neuromorphic AI, specializing in the deployment of spiking neural networks (SNNs) and binarized neural networks (BNNs) on RISC-V architectures for resource-constrained IoT devices.
 
-**Expertises clés :**
-- Optimisation de modèles AI pour microcontrôleurs 32-bit
-- Déploiement de TinyML sur accélérateurs matériels open-source
-- Réduction de consommation énergétique via l’apprentissage bio-inspiré
+Je suis doctorant en IA neuromorphique, spécialisé dans le déploiement de réseaux de neurones spiking (SNN) et de réseaux de neurones binarisés (BNN) sur des architectures RISC-V pour des dispositifs IoT à ressources limitées.
 
-[Voir mes publications récentes](/publications/)
+**Key Expertise / Expertises clés :**
+- Optimization of AI models for 32-bit microcontrollers / Optimisation de modèles AI pour microcontrôleurs 32-bit
+- Deployment of TinyML on open-source hardware accelerators / Déploiement de TinyML sur accélérateurs matériels open-source
+- Energy consumption reduction through bio-inspired learning / Réduction de consommation énergétique via l'apprentissage bio-inspiré
 
----
-
-🔧 **Projets Récents**
-- RISC-V SNN Deployment
-
----
-
-📝 **Derniers Articles**
-- [My First Post](/posts/my-first-post/)
-- [Optimizing Edge AI for RISC-V](/posts/optimizing-edge-ai-for-riscv/)
-
----
-
-💡 **Collaborations**
-Recherche de partenaires industriels pour :
-- Co-design matériel/logiciel pour edge AI
-- Développement de compilateurs SNN optimisés
-- Benchmarking d’architectures neuromorphiques
-
-[Contactez-moi pour discuter](/contact/)
+[View my recent publications / Voir mes publications récentes](/publications/)

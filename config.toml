@@ -1,5 +1,36 @@
 baseURL = "https://stevelengui.github.io/"
 languageCode = "fr-fr"
-title = "Mon Site Hugo"
+title = "Steve Lengui - PhD in Neuromorphic AI for IoT"
 theme = "ananke"
-publishDir = "/home/steve/mysite/docs"
+publishDir = "docs"
+
+[params]
+  description = "Site personnel de Steve Lengui, doctorant en IA neuromorphique pour IoT."
+  author = "Steve Lengui"
+  github = "https://github.com/stevelengui"
+  linkedin = "https://linkedin.com/in/stevelengui"
+
+[[menu.main]]
+  name = "Accueil / Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "À propos / About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 3
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5

@@ -1,5 +1,14 @@
 ---
-title: "Optimizing Edge Ai for Riscv"
-date: 2025-03-06T12:43:12-05:00
-draft: true
+title: "Optimizing Edge AI for RISC-V"
+date: 2025-03-05
+draft: false
 ---
+
+## Introduction
+
+This post explores techniques for optimizing edge AI models on RISC-V hardware.
+
+### Key Techniques
+- Quantization.
+- Pruning.
+- Hardware-aware optimization.

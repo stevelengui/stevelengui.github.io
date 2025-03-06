@@ -1,15 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mon Site Hugo</title><link>https://stevelengui.github.io/post/</link><description>Recent content in Posts on Mon Site Hugo</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stevelengui.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://stevelengui.github.io/post/example/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/post/example/</guid><description>&lt;p>This is my first blog post.&lt;/p></description></item><item><title>Optimizing Edge AI for RISC-V</title><link>https://stevelengui.github.io/post/edge-ai-optimization/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/post/edge-ai-optimization/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>This post explores techniques for optimizing edge AI Hybrid models SNNs and QNNs on RISC-V hardware with qemu emulator.&lt;/p>
-&lt;h2 id="key-techniques">Key Techniques&lt;/h2>
-&lt;ol>
-&lt;li>&lt;strong>Quantization&lt;/strong>: Reduced model size by 4x with minimal accuracy loss.&lt;/li>
-&lt;li>&lt;strong>Pruning&lt;/strong>: Removed redundant neurons for faster inference.&lt;/li>
-&lt;li>&lt;strong>Hardware-Aware Optimization&lt;/strong>: Tailored models for RISC-V accelerators.&lt;/li>
-&lt;/ol>
-&lt;h2 id="results">Results&lt;/h2>
-&lt;ul>
-&lt;li>Achieved &lt;strong>2x faster inference&lt;/strong> on RISC-V compared to ARM Cortex-M.&lt;/li>
-&lt;li>Published findings in [Microprocessors and Microsystems Journal].&lt;/li>
-&lt;/ul>
-&lt;h2 id="code-repository">Code Repository&lt;/h2>
-&lt;p>Check out the code on &lt;a href="https://github.com/stevelengui/Hybride-SNN-QNN-Edge-Inference">GitHub&lt;/a>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mon Site Hugo</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Mon Site Hugo</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 05 Mar 2025 02:47:44 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybride SNN QNN Edge Inference</title>
+      <link>http://localhost:1313/post/hybride-snn-qnn-edge-inference/</link>
+      <pubDate>Wed, 05 Mar 2025 02:47:44 -0500</pubDate>
+      <guid>http://localhost:1313/post/hybride-snn-qnn-edge-inference/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This post explores techniques for optimizing edge AI models on RISC-V hardware.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-techniques&#34;&gt;Key Techniques&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantization&lt;/strong&gt;: Reduced model size by 4x with minimal accuracy loss.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pruning&lt;/strong&gt;: Removed redundant neurons for faster inference.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hardware-Aware Optimization&lt;/strong&gt;: Tailored models for RISC-V accelerators.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved &lt;strong&gt;2x faster inference&lt;/strong&gt; on RISC-V compared to ARM Cortex-M.&lt;/li&gt;&#xA;&lt;li&gt;Published findings in [Microprocessors and Microsystems].&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;code-repository&#34;&gt;Code Repository&lt;/h2&gt;&#xA;&lt;p&gt;Check out the code on &lt;a href=&#34;https://github.com/yourusername/Hybride-SNN-QNN-Edge-Inference&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deploying Neuromorphic Ai</title>
+      <link>http://localhost:1313/post/deploying-neuromorphic-ai/</link>
+      <pubDate>Tue, 04 Mar 2025 19:39:53 -0500</pubDate>
+      <guid>http://localhost:1313/post/deploying-neuromorphic-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/example/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/example/</guid>
+      <description>&lt;p&gt;This is my first blog post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Optimizing Edge AI for RISC-V</title>
+      <link>http://localhost:1313/post/edge-ai-optimization/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/edge-ai-optimization/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This post explores techniques for optimizing edge AI Hybrid models SNNs and QNNs on RISC-V hardware with qemu emulator.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-techniques&#34;&gt;Key Techniques&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantization&lt;/strong&gt;: Reduced model size by 4x with minimal accuracy loss.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pruning&lt;/strong&gt;: Removed redundant neurons for faster inference.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hardware-Aware Optimization&lt;/strong&gt;: Tailored models for RISC-V accelerators.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved &lt;strong&gt;2x faster inference&lt;/strong&gt; on RISC-V compared to ARM Cortex-M.&lt;/li&gt;&#xA;&lt;li&gt;Published findings in [Microprocessors and Microsystems Journal].&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;code-repository&#34;&gt;Code Repository&lt;/h2&gt;&#xA;&lt;p&gt;Check out the code on &lt;a href=&#34;https://github.com/stevelengui/Hybride-SNN-QNN-Edge-Inference&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
