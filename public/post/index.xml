@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Mon Site Hugo</title>
-    <link>https://stevelengui.github.io/post/</link>
-    <description>Recent content in Posts on Mon Site Hugo</description>
-    <generator>Hugo</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://stevelengui.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://stevelengui.github.io/post/example/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://stevelengui.github.io/post/example/</guid>
-      <description>This is my first blog post.</description>
-    </item>
-    <item>
-      <title>Optimizing Edge AI for RISC-V</title>
-      <link>https://stevelengui.github.io/post/edge-ai-optimization/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://stevelengui.github.io/post/edge-ai-optimization/</guid>
-      <description>Introduction This post explores techniques for optimizing edge AI Hybrid models SNNs and QNNs on RISC-V hardware with qemu emulator.&#xA;Key Techniques Quantization: Reduced model size by 4x with minimal accuracy loss. Pruning: Removed redundant neurons for faster inference. Hardware-Aware Optimization: Tailored models for RISC-V accelerators. Results Achieved 2x faster inference on RISC-V compared to ARM Cortex-M. Published findings in [Microprocessors and Microsystems Journal]. Code Repository Check out the code on GitHub.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mon Site Hugo</title><link>https://stevelengui.github.io/post/</link><description>Recent content in Posts on Mon Site Hugo</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stevelengui.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://stevelengui.github.io/post/example/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/post/example/</guid><description>This is my first blog post.</description></item><item><title>Optimizing Edge AI for RISC-V</title><link>https://stevelengui.github.io/post/edge-ai-optimization/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/post/edge-ai-optimization/</guid><description>Introduction This post explores techniques for optimizing edge AI Hybrid models SNNs and QNNs on RISC-V hardware with qemu emulator.
+Key Techniques Quantization: Reduced model size by 4x with minimal accuracy loss. Pruning: Removed redundant neurons for faster inference. Hardware-Aware Optimization: Tailored models for RISC-V accelerators. Results Achieved 2x faster inference on RISC-V compared to ARM Cortex-M. Published findings in [Microprocessors and Microsystems Journal]. Code Repository Check out the code on GitHub.</description></item></channel></rss>

@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Déploiement de SNN sur SoC RISC-V | Mon Site Hugo</title>
-</head>
-<body>
-  <h1>Déploiement de SNN sur SoC RISC-V</h1>
-  <h2 id="abstract">Abstract</h2>
-<p>Notre méthode hybride SNN/QNN permet une réduction de 72% de la consommation énergétique sur des benchmarks MLPerf Tiny&hellip;</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c" data-lang="c"><span style="display:flex;"><span><span style="color:#75715e">// Exemple de code d&#39;optimisation
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">void</span> <span style="color:#a6e22e">snn_inference</span>() {
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">riscv_pulp_io_write</span>(SNN_CFG, <span style="color:#ae81ff">0x1A3F</span>);
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">while</span>(<span style="color:#f92672">!</span>(<span style="color:#a6e22e">riscv_pulp_io_read</span>(SNN_STATUS) <span style="color:#f92672">&amp;</span> <span style="color:#ae81ff">0x1</span>));
-</span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
-
-</body>
-</html>
+<!doctype html><html><head><title>Déploiement de SNN sur SoC RISC-V | Mon Site Hugo</title></head><body><h1>Déploiement de SNN sur SoC RISC-V</h1><h2 id=abstract>Abstract</h2><p>Notre méthode hybride SNN/QNN permet une réduction de 72% de la consommation énergétique sur des benchmarks MLPerf Tiny&mldr;</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-c data-lang=c><span style=display:flex><span><span style=color:#75715e>// Exemple de code d&#39;optimisation
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span><span style=color:#66d9ef>void</span> <span style=color:#a6e22e>snn_inference</span>() {
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>riscv_pulp_io_write</span>(SNN_CFG, <span style=color:#ae81ff>0x1A3F</span>);
+</span></span><span style=display:flex><span>  <span style=color:#66d9ef>while</span>(<span style=color:#f92672>!</span>(<span style=color:#a6e22e>riscv_pulp_io_read</span>(SNN_STATUS) <span style=color:#f92672>&amp;</span> <span style=color:#ae81ff>0x1</span>));
+</span></span><span style=display:flex><span>}</span></span></code></pre></div></body></html>
