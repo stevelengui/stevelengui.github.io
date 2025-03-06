@@ -2,29 +2,4 @@ baseURL = "https://stevelengui.github.io/"
 languageCode = "fr-fr"
 title = "Mon Site Hugo"
 theme = "ananke"
-publishDir = "docs"
-
-[[menu.main]]
-  name = "Accueil / Home"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
-  name = "À propos / About"
-  url = "/about/"
-  weight = 2
-
-[[menu.main]]
-  name = "Publications"
-  url = "/publications/"
-  weight = 3
-
-[[menu.main]]
-  name = "Blog"
-  url = "/posts/"
-  weight = 4
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 5
+publishDir = "/home/steve/mysite/docs"
