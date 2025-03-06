@@ -4,6 +4,12 @@ title = "Steve Lengui - PhD in Neuromorphic AI for IoT"
 theme = "ananke"
 publishDir = "docs"
 
+[params]
+  description = "Site personnel de Steve Lengui, doctorant en IA neuromorphique pour IoT."
+  author = "Steve Lengui"
+  github = "https://github.com/stevelengui"
+  linkedin = "https://linkedin.com/in/stevelengui"
+
 [[menu.main]]
   name = "Accueil / Home"
   url = "/"
@@ -28,3 +34,4 @@ publishDir = "docs"
   name = "Contact"
   url = "/contact/"
   weight = 5
+theme = "ananke"
