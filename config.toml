@@ -51,3 +51,4 @@ publishDir = "docs"
       unsafe = true
 
 ignoreErrors = ["markup.goldmark.renderer"]
+theme = "ananke"

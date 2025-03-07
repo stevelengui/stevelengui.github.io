@@ -1,26 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on Mon Site Hugo</title>
-    <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on Mon Site Hugo</description>
-    <generator>Hugo</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Wed, 05 Mar 2025 02:35:32 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>RISC v SNN Demo</title>
-      <link>http://localhost:1313/projects/risc-v-snn-demo/</link>
-      <pubDate>Wed, 05 Mar 2025 02:35:32 -0500</pubDate>
-      <guid>http://localhost:1313/projects/risc-v-snn-demo/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This project demonstrates the deployment of spiking neural networks (SNNs) on RISC-V accelerators for ultra-low-power IoT devices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;SNN Optimization&lt;/strong&gt;: Reduced power consumption by 60% compared to traditional CNNs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;RISC-V Toolchain&lt;/strong&gt;: Leveraged QEMU for simulation and testing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Real-World Applications&lt;/strong&gt;: Deployed on IoT sensors for environmental monitoring.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved &lt;strong&gt;70% power savings&lt;/strong&gt; on RISC-V hardware.&lt;/li&gt;&#xA;&lt;li&gt;Published findings in [Microprocessors and Microsystems Journal].&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;code-repository&#34;&gt;Code Repository&lt;/h2&gt;&#xA;&lt;p&gt;Check out the code on &lt;a href=&#34;https://github.com/stevelengui/RISC-V-SNN-Demo&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>RISC-V SNN Deployment</title>
-      <link>http://localhost:1313/projects/riscv-snn/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/riscv-snn/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This project demonstrates the deployment of spiking neural networks (SNNs) on RISC-V accelerators for ultra-low-power IoT devices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;SNN Optimization&lt;/strong&gt;: Reduced power consumption by 60% compared to traditional CNNs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;RISC-V Toolchain&lt;/strong&gt;: Leveraged QEMU for simulation and testing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Real-World Applications&lt;/strong&gt;: Deployed on IoT sensors for environmental monitoring.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved &lt;strong&gt;70% power savings&lt;/strong&gt; on RISC-V hardware.&lt;/li&gt;&#xA;&lt;li&gt;Published findings in [Microprocessors and Microsystems Journal]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;code-repository&#34;&gt;Code Repository&lt;/h2&gt;&#xA;&lt;p&gt;Check out the code on &lt;a href=&#34;https://github.com/stevelengui/RISC-V-SNN-Demo&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Mon Site Hugo</title><link>https://stevelengui.github.io/projects/</link><description>Recent content in Projects on Mon Site Hugo</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stevelengui.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>RISC-V SNN Deployment</title><link>https://stevelengui.github.io/projects/riscv-snn/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/projects/riscv-snn/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>This project demonstrates the deployment of spiking neural networks (SNNs) on RISC-V accelerators for ultra-low-power IoT devices.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>SNN Optimization&lt;/strong>: Reduced power consumption by 60% compared to traditional CNNs.&lt;/li>
+&lt;li>&lt;strong>RISC-V Toolchain&lt;/strong>: Leveraged QEMU for simulation and testing.&lt;/li>
+&lt;li>&lt;strong>Real-World Applications&lt;/strong>: Deployed on IoT sensors for environmental monitoring.&lt;/li>
+&lt;/ul>
+&lt;h2 id="results">Results&lt;/h2>
+&lt;ul>
+&lt;li>Achieved &lt;strong>70% power savings&lt;/strong> on RISC-V hardware.&lt;/li>
+&lt;li>Published findings in [Microprocessors and Microsystems Journal]&lt;/li>
+&lt;/ul>
+&lt;h2 id="code-repository">Code Repository&lt;/h2>
+&lt;p>Check out the code on &lt;a href="https://github.com/stevelengui/RISC-V-SNN-Demo">GitHub&lt;/a>.&lt;/p></description></item></channel></rss>
