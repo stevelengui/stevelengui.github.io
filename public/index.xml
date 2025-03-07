@@ -23,13 +23,6 @@
       <description>&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;h3 id=&#34;déploiement-de-modèles-dia-sur-risc-v&#34;&gt;Déploiement de modèles d&amp;rsquo;IA sur RISC-V&lt;/h3&gt;&#xA;&lt;p&gt;Description: Nous déployons des modèles d&amp;rsquo;IA sur des architectures RISC-V pour des dispositifs IoT à ressources limitées.&lt;/p&gt;&#xA;&lt;h3 id=&#34;formation-en-tinyml-et-ia-embarquée&#34;&gt;Formation en TinyML et IA embarquée&lt;/h3&gt;&#xA;&lt;p&gt;Description: Nous offrons des formations complètes en TinyML et IA embarquée pour les professionnels et les entreprises.&lt;/p&gt;&#xA;&lt;h3 id=&#34;optimisation-de-la-consommation-dénergie-pour-les-appareils-iot&#34;&gt;Optimisation de la consommation d&amp;rsquo;énergie pour les appareils IoT&lt;/h3&gt;&#xA;&lt;p&gt;Description: Nous optimisons la consommation d&amp;rsquo;énergie des appareils IoT en utilisant des techniques d&amp;rsquo;apprentissage bio-inspirées.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hybride SNN QNN Edge Inference</title>
-      <link>http://localhost:1313/post/hybride-snn-qnn-edge-inference/</link>
-      <pubDate>Wed, 05 Mar 2025 02:47:44 -0500</pubDate>
-      <guid>http://localhost:1313/post/hybride-snn-qnn-edge-inference/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This post explores techniques for optimizing edge AI models on RISC-V hardware.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-techniques&#34;&gt;Key Techniques&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantization&lt;/strong&gt;: Reduced model size by 4x with minimal accuracy loss.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pruning&lt;/strong&gt;: Removed redundant neurons for faster inference.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hardware-Aware Optimization&lt;/strong&gt;: Tailored models for RISC-V accelerators.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved &lt;strong&gt;2x faster inference&lt;/strong&gt; on RISC-V compared to ARM Cortex-M.&lt;/li&gt;&#xA;&lt;li&gt;Published findings in [Microprocessors and Microsystems].&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;code-repository&#34;&gt;Code Repository&lt;/h2&gt;&#xA;&lt;p&gt;Check out the code on &lt;a href=&#34;https://github.com/yourusername/Hybride-SNN-QNN-Edge-Inference&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>RISC v SNN Demo</title>
       <link>http://localhost:1313/projects/risc-v-snn-demo/</link>
       <pubDate>Wed, 05 Mar 2025 02:35:32 -0500</pubDate>
@@ -37,32 +30,11 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This project demonstrates the deployment of spiking neural networks (SNNs) on RISC-V accelerators for ultra-low-power IoT devices.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;SNN Optimization&lt;/strong&gt;: Reduced power consumption by 60% compared to traditional CNNs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;RISC-V Toolchain&lt;/strong&gt;: Leveraged QEMU for simulation and testing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Real-World Applications&lt;/strong&gt;: Deployed on IoT sensors for environmental monitoring.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved &lt;strong&gt;70% power savings&lt;/strong&gt; on RISC-V hardware.&lt;/li&gt;&#xA;&lt;li&gt;Published findings in [Microprocessors and Microsystems Journal].&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;code-repository&#34;&gt;Code Repository&lt;/h2&gt;&#xA;&lt;p&gt;Check out the code on &lt;a href=&#34;https://github.com/stevelengui/RISC-V-SNN-Demo&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Deploying Neuromorphic Ai</title>
-      <link>http://localhost:1313/post/deploying-neuromorphic-ai/</link>
-      <pubDate>Tue, 04 Mar 2025 19:39:53 -0500</pubDate>
-      <guid>http://localhost:1313/post/deploying-neuromorphic-ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/post/example/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/example/</guid>
-      <description>&lt;p&gt;This is my first blog post.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is my first blog post. Welcome to my site!&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-points&#34;&gt;Key Points&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Overview of my research.&lt;/li&gt;&#xA;&lt;li&gt;Goals for the future.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Optimizing Edge AI for RISC-V</title>
-      <link>http://localhost:1313/post/edge-ai-optimization/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/edge-ai-optimization/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This post explores techniques for optimizing edge AI Hybrid models SNNs and QNNs on RISC-V hardware with qemu emulator.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-techniques&#34;&gt;Key Techniques&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantization&lt;/strong&gt;: Reduced model size by 4x with minimal accuracy loss.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pruning&lt;/strong&gt;: Removed redundant neurons for faster inference.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hardware-Aware Optimization&lt;/strong&gt;: Tailored models for RISC-V accelerators.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Achieved &lt;strong&gt;2x faster inference&lt;/strong&gt; on RISC-V compared to ARM Cortex-M.&lt;/li&gt;&#xA;&lt;li&gt;Published findings in [Microprocessors and Microsystems Journal].&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;code-repository&#34;&gt;Code Repository&lt;/h2&gt;&#xA;&lt;p&gt;Check out the code on &lt;a href=&#34;https://github.com/stevelengui/Hybride-SNN-QNN-Edge-Inference&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimizing Edge AI for RISC-V</title>
@@ -93,11 +65,11 @@
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Notre méthode hybride SNN/QNN permet une réduction de 72% de la consommation énergétique sur des benchmarks MLPerf Tiny&amp;hellip;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Exemple de code d&amp;#39;optimisation&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;snn_inference&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;riscv_pulp_io_write&lt;/span&gt;(SNN_CFG, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x1A3F&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;while&lt;/span&gt;(&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;riscv_pulp_io_read&lt;/span&gt;(SNN_STATUS) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0x1&lt;/span&gt;));&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>Mon Premier Article</title>
-      <link>http://localhost:1313/posts/premier-article/</link>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/premier-article/</guid>
-      <description>&lt;h2 id=&#34;bienvenue-sur-mon-site-&#34;&gt;Bienvenue sur mon site !&lt;/h2&gt;&#xA;&lt;p&gt;Ceci est mon premier article utilisant Hugo et le thème Ananke.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h2 id=&#34;mes-publications-récentes--recent-publications&#34;&gt;Mes Publications Récentes / Recent Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Efficient Neural Network Implementations on RISC-V Architectures for IoT: A State of the Art and Perspectives for SNN, QNN, and BNN Networks&lt;/strong&gt;&#xA;&lt;em&gt;Elsevier to Microprocessors and Microsystems Journal&lt;/em&gt;&#xA;&lt;a href=&#34;#&#34;&gt;https://acrobat.adobe.com/id/urn:aaid:sc:EU:69c3613d-6de3-4b56-8688-2b69b69b4544&lt;/a&gt;&#xA;&lt;strong&gt;Résumé / Abstract&lt;/strong&gt;: The proliferation of IoT devices necessitates energy-efficient AI solutions that balance computational demands with power constraints.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2025-1&#34;&gt;2025&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Implementation of Hybrid Spiking-Quantized Neural Networks on RISC-V for Resource-Constrained IoT Devices&lt;/strong&gt;&#xA;&lt;em&gt;Elsevier to Microprocessors and Microsystems Journal&lt;/em&gt;&#xA;&lt;a href=&#34;#&#34;&gt;https://acrobat.adobe.com/id/urn:aaid:sc:EU:23d45602-724f-4750-8140-85dd9a8cdd53&lt;/a&gt;&#xA;&lt;strong&gt;Résumé / Abstract&lt;/strong&gt;: This paper presents the implementation of a hybrid Spiking Neural Network (SNN) and Quantized Neural Network (QNN) on RISC-V architecture for resource-constrained IoT devices.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

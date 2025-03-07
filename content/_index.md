@@ -1,5 +1,6 @@
 ---
 title: "Home"
+date: 2025-03-07T00:00:00Z
 draft: false
 ---
 
@@ -25,8 +26,10 @@ Je suis doctorant en IA neuromorphique, spécialisé dans le déploiement de ré
 
 ### 📝 Latest Articles / Derniers Articles
 - **[My First Post](/posts/my-first-post/)**
+  - **Summary**: Introduction to my research and projects.
 
 - **[Optimizing Edge AI for RISC-V](/posts/optimizing-edge-ai-for-risc-v/)**
+  - **Summary**: Techniques for optimizing edge AI models on RISC-V hardware.
 
 ### 💡 Collaborations / Collaborations
 I am seeking industrial partners for:

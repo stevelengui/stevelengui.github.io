@@ -11,28 +11,13 @@
     <loc>http://localhost:1313/services/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/hybride-snn-qnn-edge-inference/</loc>
-    <lastmod>2025-03-05T02:47:44-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-03-05T02:47:44-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-03-05T02:35:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/risc-v-snn-demo/</loc>
     <lastmod>2025-03-05T02:35:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/deploying-neuromorphic-ai/</loc>
-    <lastmod>2025-03-04T19:39:53-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/example/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/edge-ai-optimization/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/optimizing-edge-ai-for-riscv/</loc>
@@ -50,7 +35,7 @@
     <loc>http://localhost:1313/posts/deploying-snn-riscv/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/premier-article/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/risc-v/</loc>
