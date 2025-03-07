@@ -1,11 +1,19 @@
 ---
 title: "Contact"
-date: 2023-09-20
+date: 2025-03-07T00:00:00Z
 draft: false
 ---
 
-## Contactez-moi / Contact Me
+## Contactez-nous
 
-Vous pouvez me contacter par email à [steve.lengui@gmail.com](mailto:steve.lengui@gmail.com).
+Veuillez remplir le formulaire ci-dessous pour nous contacter.
 
-You can reach me by email at [steve.lengui@gmail.com](mailto:steve.lengui@gmail.com).
+<form action="https://formspree.io/stevelengui@gmail.com" method="POST">
+  <label for="name">Nom :</label><br>
+  <input type="text" id="name" name="name" required><br>
+  <label for="email">E-mail :</label><br>
+  <input type="email" id="email" name="email" required><br>
+  <label for="message">Message :</label><br>
+  <textarea id="message" name="message" required></textarea><br>
+  <input type="submit" value="Envoyer">
+</form>
