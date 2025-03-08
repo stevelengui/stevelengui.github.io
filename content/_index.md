@@ -18,12 +18,20 @@ Je suis doctorant en IA neuromorphique, spécialisé dans le déploiement de ré
 - **Energy consumption reduction through bio-inspired learning / Réduction de consommation énergétique via l’apprentissage bio-inspiré**
 
 ### Accédez aux sections :
-- [À propos](/about/)
-- [Services](/services/)
-- [Publications](/publications/)
-- [Blog](/blog/)
-- [Projets](/projects/)
-- [Contact](/contact/)
+- [À propos](/fr/about/){.btn}
+- [Services](/fr/services/){.btn}
+- [Publications](/fr/publications/){.btn}
+- [Blog](/fr/blog/){.btn}
+- [Projets](/fr/projects/){.btn}
+- [Contact](/fr/contact/){.btn}
+
+### Explore the sections:
+- [About](/en/about/){.btn}
+- [Services](/en/services/){.btn}
+- [Publications](/en/publications/){.btn}
+- [Blog](/en/blog/){.btn}
+- [Projects](/en/projects/){.btn}
+- [Contact](/en/contact/){.btn}
 
 ### 💡 Collaborations / Collaborations
 I am seeking industrial partners for:
@@ -31,4 +39,4 @@ I am seeking industrial partners for:
 - **Development of optimized SNN compilers / Développement de compilateurs SNN optimisés**
 - **Benchmarking of neuromorphic architectures / Benchmarking d’architectures neuromorphiques**
 
-
+**Contact me to discuss / Contactez-moi pour discuter**
