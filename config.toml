@@ -1,99 +1,56 @@
-baseURL = "https://stevelengui.github.io/"
-defaultContentLanguage = "fr"  # Langue par défaut
-defaultContentLanguageInSubdir = true  # Afficher la langue dans l'URL
-
-[languages]
-  [languages.fr]
-    languageName = "Français"
-    title = "Steve Lengui - Doctorant en IA Neuromorphique"
-    weight = 1
-  [languages.en]
-    languageName = "English"
-    title = "Steve Lengui - PhD in Neuromorphic AI"
-    weight = 2
-
-[[redirects]]
-  from = "/"
-  to = "/fr/"
-  status = 301
-
-theme = "ananke"
-publishDir = "docs"
+baseURL = 'https://stevelengui.github.io/'
+languageCode = 'fr-fr'
+title = 'Steve Lengui - PhD in Neuromorphic AI for IoT'
+theme = 'ananke'
+publishDir = 'docs'
 
 [params]
+  customHead = "partials/custom-head.html"
+  cssVersion = "1.0"
   description = "Site personnel de Steve Lengui, doctorant en IA neuromorphique pour IoT."
   author = "Steve Lengui"
   github = "https://github.com/stevelengui"
   linkedin = "https://linkedin.com/in/stevelengui"
+  email = "steve.lengui@gmail.com"
 
-# Menu principal pour le français
-[[languages.fr.menu.main]]
-  name = "Accueil"
-  url = "/fr/"
+[[menu.main]]
+  name = "Accueil / Home"
+  url = "/"
   weight = 1
 
-[[languages.fr.menu.main]]
+[[menu.main]]
   name = "Services"
-  url = "/fr/services/"
+  url = "/services/"
   weight = 2
 
-[[languages.fr.menu.main]]
-  name = "À propos"
-  url = "/fr/about/"
+[[menu.main]]
+  name = "À propos / About"
+  url = "/about/"
   weight = 3
 
-[[languages.fr.menu.main]]
+[[menu.main]]
   name = "Publications"
-  url = "/fr/publications/"
+  url = "/publications/"
   weight = 4
 
-[[languages.fr.menu.main]]
+[[menu.main]]
   name = "Blog"
-  url = "/fr/blog/"
+  url = "/posts/"
   weight = 5
 
-[[languages.fr.menu.main]]
-  name = "Projets"
-  url = "/fr/projects/"
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
   weight = 6
 
-[[languages.fr.menu.main]]
-  name = "Contact"
-  url = "/fr/contact/"
-  weight = 7
-
-# Menu principal pour l'anglais
-[[languages.en.menu.main]]
-  name = "Home"
-  url = "/en/"
-  weight = 1
-
-[[languages.en.menu.main]]
-  name = "Services"
-  url = "/en/services/"
-  weight = 2
-
-[[languages.en.menu.main]]
-  name = "About"
-  url = "/en/about/"
-  weight = 3
-
-[[languages.en.menu.main]]
-  name = "Publications"
-  url = "/en/publications/"
-  weight = 4
-
-[[languages.en.menu.main]]
-  name = "Blog"
-  url = "/en/blog/"
-  weight = 5
-
-[[languages.en.menu.main]]
+[[menu.main]]
   name = "Projects"
-  url = "/en/projects/"
-  weight = 6
-
-[[languages.en.menu.main]]
-  name = "Contact"
-  url = "/en/contact/"
+  url = "/projects/"
   weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+ignoreErrors = ["markup.goldmark.renderer"]

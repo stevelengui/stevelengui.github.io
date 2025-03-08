@@ -2,99 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about.fr/</loc>
+    <loc>https://stevelengui.github.io/about.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://stevelengui.github.io/about/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/_index.fr/</loc>
+    <loc>https://stevelengui.github.io/_index.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://stevelengui.github.io/blog/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/_index.fr/</loc>
+    <loc>https://stevelengui.github.io/blog/_index.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://stevelengui.github.io/contact/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact.fr/</loc>
+    <loc>https://stevelengui.github.io/contact.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/deployer-snn-riscv.fr/</loc>
+    <loc>https://stevelengui.github.io/blog/deployer-snn-riscv.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/deploy-snn-riscv/</loc>
+    <loc>https://stevelengui.github.io/blog/deploy-snn-riscv/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://stevelengui.github.io/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/implementation-modele-hybride-snn-qnn.fr/</loc>
+    <loc>https://stevelengui.github.io/blog/implementation-modele-hybride-snn-qnn.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/implementation-hybrid-snn-qnn-model/</loc>
+    <loc>https://stevelengui.github.io/blog/implementation-hybrid-snn-qnn-model/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/introduction-ia-neuromorphique-iot.fr/</loc>
+    <loc>https://stevelengui.github.io/blog/introduction-ia-neuromorphique-iot.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/premier-article/</loc>
+    <loc>https://stevelengui.github.io/blog/premier-article/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/introduction-neuromorphic-ai-iot/</loc>
+    <loc>https://stevelengui.github.io/posts/my-first-post/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://stevelengui.github.io/blog/introduction-neuromorphic-ai-iot/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects.fr/</loc>
+    <loc>https://stevelengui.github.io/posts/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://stevelengui.github.io/projects/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications.fr/</loc>
+    <loc>https://stevelengui.github.io/projects.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>https://stevelengui.github.io/publications/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services.fr/</loc>
+    <loc>https://stevelengui.github.io/publications.fr/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/risc-v-snn-demo/</loc>
-    <lastmod>2025-03-05T02:35:32-05:00</lastmod>
+    <loc>https://stevelengui.github.io/services/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://stevelengui.github.io/services.fr/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevelengui.github.io/posts/optimizing-edge-ai-for-riscv/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/optimizing-edge-ai-for-riscv/</loc>
+    <loc>https://stevelengui.github.io/projects/riscv-snn/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/riscv-snn/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/deploying-snn-riscv/</loc>
+    <loc>https://stevelengui.github.io/posts/deploying-snn-riscv/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/risc-v/</loc>
+    <loc>https://stevelengui.github.io/tags/risc-v/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/snn/</loc>
+    <loc>https://stevelengui.github.io/tags/snn/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://stevelengui.github.io/tags/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tinyml/</loc>
+    <loc>https://stevelengui.github.io/tags/tinyml/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://stevelengui.github.io/categories/</loc>
   </url>
 </urlset>

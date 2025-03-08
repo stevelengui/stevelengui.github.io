@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TinyML on Mon Site Hugo</title>
-    <link>http://localhost:1313/tags/tinyml/</link>
+    <link>https://stevelengui.github.io/tags/tinyml/</link>
     <description>Recent content in TinyML on Mon Site Hugo</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tinyml/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stevelengui.github.io/tags/tinyml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Déploiement de SNN sur SoC RISC-V</title>
-      <link>http://localhost:1313/posts/deploying-snn-riscv/</link>
+      <link>https://stevelengui.github.io/posts/deploying-snn-riscv/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/deploying-snn-riscv/</guid>
+      <guid>https://stevelengui.github.io/posts/deploying-snn-riscv/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Notre méthode hybride SNN/QNN permet une réduction de 72% de la consommation énergétique sur des benchmarks MLPerf Tiny&amp;hellip;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Exemple de code d&amp;#39;optimisation&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;snn_inference&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;riscv_pulp_io_write&lt;/span&gt;(SNN_CFG, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x1A3F&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;while&lt;/span&gt;(&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;riscv_pulp_io_read&lt;/span&gt;(SNN_STATUS) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0x1&lt;/span&gt;));&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>

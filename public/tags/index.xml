@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mon Site Hugo</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://stevelengui.github.io/tags/</link>
     <description>Recent content in Tags on Mon Site Hugo</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stevelengui.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RISC-V</title>
-      <link>http://localhost:1313/tags/risc-v/</link>
+      <link>https://stevelengui.github.io/tags/risc-v/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/risc-v/</guid>
+      <guid>https://stevelengui.github.io/tags/risc-v/</guid>
       <description></description>
     </item>
     <item>
       <title>SNN</title>
-      <link>http://localhost:1313/tags/snn/</link>
+      <link>https://stevelengui.github.io/tags/snn/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/snn/</guid>
+      <guid>https://stevelengui.github.io/tags/snn/</guid>
       <description></description>
     </item>
     <item>
       <title>TinyML</title>
-      <link>http://localhost:1313/tags/tinyml/</link>
+      <link>https://stevelengui.github.io/tags/tinyml/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tinyml/</guid>
+      <guid>https://stevelengui.github.io/tags/tinyml/</guid>
       <description></description>
     </item>
   </channel>
