@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mon Site Hugo</title>
-    <link>https://stevelengui.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Mon Site Hugo</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://stevelengui.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction à l&#39;IA neuromorphique pour les appareils IoT</title>
-      <link>https://stevelengui.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://stevelengui.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;IA neuromorphique est une approche prometteuse pour les appareils IoT à ressources limitées. Contrairement aux réseaux de neurones traditionnels, l&amp;rsquo;IA neuromorphique s&amp;rsquo;inspire du fonctionnement du cerveau humain pour créer des systèmes capables d&amp;rsquo;apprendre et de s&amp;rsquo;adapter de manière plus efficace et économe en énergie.&lt;/p&gt;&#xA;&lt;h3 id=&#34;quest-ce-que-lia-neuromorphique-&#34;&gt;Qu&amp;rsquo;est-ce que l&amp;rsquo;IA neuromorphique ?&lt;/h3&gt;&#xA;&lt;p&gt;L&amp;rsquo;IA neuromorphique est une branche de l&amp;rsquo;intelligence artificielle qui imite la structure et le fonctionnement des neurones biologiques. Elle utilise des &lt;strong&gt;réseaux de neurones spiking (SNN)&lt;/strong&gt; pour traiter l&amp;rsquo;information de manière asynchrone et événementielle, ce qui la rend particulièrement adaptée aux environnements où les ressources sont limitées.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimizing Edge AI for RISC-V</title>
-      <link>https://stevelengui.github.io/posts/optimizing-edge-ai-for-riscv/</link>
+      <link>http://localhost:1313/posts/optimizing-edge-ai-for-riscv/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://stevelengui.github.io/posts/optimizing-edge-ai-for-riscv/</guid>
+      <guid>http://localhost:1313/posts/optimizing-edge-ai-for-riscv/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This post explores techniques for optimizing edge AI models on RISC-V hardware.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-techniques&#34;&gt;Key Techniques&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quantization.&lt;/li&gt;&#xA;&lt;li&gt;Pruning.&lt;/li&gt;&#xA;&lt;li&gt;Hardware-aware optimization.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Déploiement de SNN sur SoC RISC-V</title>
-      <link>https://stevelengui.github.io/posts/deploying-snn-riscv/</link>
+      <link>http://localhost:1313/posts/deploying-snn-riscv/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://stevelengui.github.io/posts/deploying-snn-riscv/</guid>
+      <guid>http://localhost:1313/posts/deploying-snn-riscv/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Notre méthode hybride SNN/QNN permet une réduction de 72% de la consommation énergétique sur des benchmarks MLPerf Tiny&amp;hellip;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Exemple de code d&amp;#39;optimisation&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;snn_inference&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;riscv_pulp_io_write&lt;/span&gt;(SNN_CFG, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x1A3F&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;while&lt;/span&gt;(&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;riscv_pulp_io_read&lt;/span&gt;(SNN_STATUS) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0x1&lt;/span&gt;));&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
