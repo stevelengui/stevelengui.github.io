@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Mon Site Hugo</title>
+    <title>Blogs on Mon Site Hugo</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on Mon Site Hugo</description>
+    <description>Recent content in Blogs on Mon Site Hugo</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/_index.fr/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/_index.fr/</guid>
-      <description>&lt;h2 id=&#34;articles-récents&#34;&gt;Articles récents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/fr/blog/introduction-ia-neuromorphique-iot/&#34;&gt;Introduction à l&amp;rsquo;IA neuromorphique pour les appareils IoT&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/fr/blog/deployer-snn-riscv/&#34;&gt;Déployer un modèle SNN sur RISC-V avec QEMU&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/fr/blog/implementation-modele-hybride-snn-qnn/&#34;&gt;Implémentation d&amp;rsquo;un modèle hybride SNN-QNN sur RISC-V avec QEMU&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
     <item>
       <title>Déployer un modèle SNN sur RISC-V avec l&#39;émulateur QEMU</title>
       <link>http://localhost:1313/blog/deployer-snn-riscv.fr/</link>
