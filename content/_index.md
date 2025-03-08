@@ -4,28 +4,26 @@ date: 2025-03-07T00:00:00Z
 draft: false
 ---
 
-## Steve Lengui - PhD in Neuromorphic AI for IoT
+## Welcome to Steve Lengui's Personal Site
 
-🧠 **Research in Edge AI / Recherche en Edge AI**
+![Logo](path/to/logo.png)
 
+### About Me
 I am a PhD candidate in neuromorphic AI, specializing in the deployment of spiking neural networks (SNNs) and binarized neural networks (BNNs) on RISC-V architectures for resource-constrained IoT devices.
 
 Je suis doctorant en IA neuromorphique, spécialisé dans le déploiement de réseaux de neurones spiking (SNN) et de réseaux de neurones binarisés (BNN) sur des architectures RISC-V pour des dispositifs IoT à ressources limitées.
 
-### Key Expertise / Expertises clés:
-- **Optimization of AI models for 32-bit microcontrollers / Optimisation de modèles AI pour microcontrôleurs 32-bit**
-- **Deployment of TinyML on open-source hardware accelerators / Déploiement de TinyML sur accélérateurs matériels open-source**
-- **Energy consumption reduction through bio-inspired learning / Réduction de consommation énergétique via l’apprentissage bio-inspiré**
+### Key Expertise
+- **Optimization of AI models for 32-bit microcontrollers**
+- **Deployment of TinyML on open-source hardware accelerators**
+- **Energy consumption reduction through bio-inspired learning**
 
-### Accédez aux sections :
-- [À propos](/fr/about/){.btn}
-- [Services](/fr/services/){.btn}
-- [Publications](/fr/publications/){.btn}
-- [Blog](/fr/blog/){.btn}
-- [Projets](/fr/projects/){.btn}
-- [Contact](/fr/contact/){.btn}
+### Recent Articles
+- [Introduction to Neuromorphic AI for IoT Devices](/posts/introduction-neuromorphic-ai-iot/)
+- [Deploying an SNN Model on RISC-V with QEMU](/posts/deploy-snn-riscv/)
+- [Implementation of a Hybrid SNN-QNN Model on RISC-V](/posts/implementation-hybrid-snn-qnn-model/)
 
-### Explore the sections:
+### Sections
 - [About](/en/about/){.btn}
 - [Services](/en/services/){.btn}
 - [Publications](/en/publications/){.btn}
@@ -33,10 +31,10 @@ Je suis doctorant en IA neuromorphique, spécialisé dans le déploiement de ré
 - [Projects](/en/projects/){.btn}
 - [Contact](/en/contact/){.btn}
 
-### 💡 Collaborations / Collaborations
+### Collaborations
 I am seeking industrial partners for:
-- **Hardware-software co-design for edge AI / Co-design matériel/logiciel pour edge AI**
-- **Development of optimized SNN compilers / Développement de compilateurs SNN optimisés**
-- **Benchmarking of neuromorphic architectures / Benchmarking d’architectures neuromorphiques**
+- **Hardware-software co-design for edge AI**
+- **Development of optimized SNN compilers**
+- **Benchmarking of neuromorphic architectures**
 
-**Contact me to discuss / Contactez-moi pour discuter**
+**Contact me to discuss**
