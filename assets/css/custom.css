@@ -44,14 +44,18 @@ body {
   padding-top: 0;
 }
 
-/* Si le problème vient d'un header */
+/* Réduire les marges et les paddings du header */
 header {
   margin-top: 0;
   padding-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
-/* S'assurer qu'il n'y a pas de marges internes ou externes */
+/* S'assurer qu'il n'y a pas de marges internes ou externes dans le container principal */
 .container {
   margin-top: 0;
   padding-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
