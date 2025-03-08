@@ -34,13 +34,13 @@ Je suis Steve Lengui, doctorant en IA neuromorphique pour IoT. Mon travail se co
 &lt;ul>
 &lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:stevelengui@gmail.com">stevelengui@gmail.com&lt;/a>&lt;/li>
 &lt;li>&lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/stevelengui">stevelengui&lt;/a>&lt;/li>
-&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/stevelengui">Lengui Lengui Steve Charnot&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://www.linkedin.com/in/lengui-lengui-steve-charnot-172074178/">Lengui Lengui Steve Charnot&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Contact</title><link>https://stevelengui.github.io/fr/contact/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/fr/contact/</guid><description>&lt;h2 id="contactez-moi">Contactez-moi&lt;/h2>
 &lt;p>Vous pouvez me contacter via les moyens suivants :&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Email&lt;/strong> : &lt;a href="mailto:stevelengui@gmail.com">stevelengui@gmail.com&lt;/a>&lt;/li>
 &lt;li>&lt;strong>GitHub&lt;/strong> : &lt;a href="https://github.com/stevelengui">stevelengui&lt;/a>&lt;/li>
-&lt;li>&lt;strong>LinkedIn&lt;/strong> : &lt;a href="https://linkedin.com/in/stevelengui">Lengui Lengui Steve Charnot&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong> : &lt;a href="https://www.linkedin.com/in/lengui-lengui-steve-charnot-172074178/">Lengui Lengui Steve Charnot&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Déployer un modèle SNN sur RISC-V avec l'émulateur QEMU</title><link>https://stevelengui.github.io/blog/deployer-snn-riscv.fr/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/deployer-snn-riscv.fr/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>Le déploiement de réseaux de neurones spiking (SNN) sur des architectures RISC-V est une étape clé pour rendre l&amp;rsquo;IA neuromorphique accessible aux dispositifs IoT à ressources limitées. Dans cet article, nous explorons comment utiliser l&amp;rsquo;émulateur QEMU pour tester et déployer des modèles SNN sur une architecture RISC-V.&lt;/p>
 &lt;h3 id="pourquoi-utiliser-qemu-">Pourquoi utiliser QEMU ?&lt;/h3>
