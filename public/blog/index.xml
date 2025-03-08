@@ -1,61 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blogs on Mon Site Hugo</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on Mon Site Hugo</description>
-    <generator>Hugo</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Déployer un modèle SNN sur RISC-V avec l&#39;émulateur QEMU</title>
-      <link>http://localhost:1313/blog/deployer-snn-riscv.fr/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/deployer-snn-riscv.fr/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Le déploiement de réseaux de neurones spiking (SNN) sur des architectures RISC-V est une étape clé pour rendre l&amp;rsquo;IA neuromorphique accessible aux dispositifs IoT à ressources limitées. Dans cet article, nous explorons comment utiliser l&amp;rsquo;émulateur QEMU pour tester et déployer des modèles SNN sur une architecture RISC-V.&lt;/p&gt;&#xA;&lt;h3 id=&#34;pourquoi-utiliser-qemu-&#34;&gt;Pourquoi utiliser QEMU ?&lt;/h3&gt;&#xA;&lt;p&gt;QEMU est un émulateur open-source qui permet de simuler des architectures matérielles, y compris RISC-V. Il est particulièrement utile pour :&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deploying an SNN Model on RISC-V with QEMU Emulator</title>
-      <link>http://localhost:1313/blog/deploy-snn-riscv/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/deploy-snn-riscv/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Deploying spiking neural networks (SNNs) on RISC-V architectures is a key step in making neuromorphic AI accessible to resource-constrained IoT devices. In this article, we explore how to use the QEMU emulator to test and deploy SNN models on a RISC-V architecture.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-use-qemu&#34;&gt;Why Use QEMU?&lt;/h3&gt;&#xA;&lt;p&gt;QEMU is an open-source emulator that allows simulating hardware architectures, including RISC-V. It is particularly useful for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Testing SNN models without needing physical hardware.&lt;/li&gt;&#xA;&lt;li&gt;Debugging and optimizing model performance before deployment on real hardware.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;steps-to-deploy-an-snn-model-on-risc-v-with-qemu&#34;&gt;Steps to Deploy an SNN Model on RISC-V with QEMU&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Environment Setup&lt;/strong&gt;:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Implémentation d&#39;un modèle hybride SNN-QNN sur l&#39;accélérateur RISC-V avec l&#39;émulateur QEMU</title>
-      <link>http://localhost:1313/blog/implementation-modele-hybride-snn-qnn.fr/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/implementation-modele-hybride-snn-qnn.fr/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Les modèles hybrides combinant des réseaux de neurones spiking (SNN) et des réseaux de neurones quantifiés (QNN) offrent un équilibre entre efficacité énergétique et précision. Dans cet article, nous explorons comment implémenter un tel modèle sur un accélérateur RISC-V en utilisant l&amp;rsquo;émulateur QEMU.&lt;/p&gt;&#xA;&lt;h3 id=&#34;pourquoi-un-modèle-hybride-snn-qnn-&#34;&gt;Pourquoi un modèle hybride SNN-QNN ?&lt;/h3&gt;&#xA;&lt;p&gt;Les modèles hybrides SNN-QNN combinent les avantages des deux approches :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;SNN&lt;/strong&gt; : Faible consommation d&amp;rsquo;énergie et traitement en temps réel.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;QNN&lt;/strong&gt; : Précision accrue grâce à la quantification des poids et des activations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;étapes-pour-implémenter-un-modèle-hybride-snn-qnn-sur-risc-v-avec-qemu&#34;&gt;Étapes pour implémenter un modèle hybride SNN-QNN sur RISC-V avec QEMU&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Préparation de l&amp;rsquo;environnement&lt;/strong&gt; :&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Implementation of a Hybrid SNN-QNN Model on RISC-V Accelerator with QEMU Emulator</title>
-      <link>http://localhost:1313/blog/implementation-hybrid-snn-qnn-model/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/implementation-hybrid-snn-qnn-model/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hybrid models combining spiking neural networks (SNNs) and quantized neural networks (QNNs) offer a balance between energy efficiency and accuracy. In this article, we explore how to implement such a model on a RISC-V accelerator using the QEMU emulator.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-a-hybrid-snn-qnn-model&#34;&gt;Why a Hybrid SNN-QNN Model?&lt;/h3&gt;&#xA;&lt;p&gt;Hybrid SNN-QNN models combine the advantages of both approaches:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;SNN&lt;/strong&gt;: Low energy consumption and real-time processing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;QNN&lt;/strong&gt;: Increased accuracy through weight and activation quantization.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;steps-to-implement-a-hybrid-snn-qnn-model-on-risc-v-with-qemu&#34;&gt;Steps to Implement a Hybrid SNN-QNN Model on RISC-V with QEMU&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Environment Setup&lt;/strong&gt;:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introduction à l&#39;IA neuromorphique pour les appareils IoT</title>
-      <link>http://localhost:1313/blog/introduction-ia-neuromorphique-iot.fr/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/introduction-ia-neuromorphique-iot.fr/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;IA neuromorphique est une approche prometteuse pour les appareils IoT à ressources limitées. Contrairement aux réseaux de neurones traditionnels, l&amp;rsquo;IA neuromorphique s&amp;rsquo;inspire du fonctionnement du cerveau humain pour créer des systèmes capables d&amp;rsquo;apprendre et de s&amp;rsquo;adapter de manière plus efficace et économe en énergie.&lt;/p&gt;&#xA;&lt;h3 id=&#34;quest-ce-que-lia-neuromorphique-&#34;&gt;Qu&amp;rsquo;est-ce que l&amp;rsquo;IA neuromorphique ?&lt;/h3&gt;&#xA;&lt;p&gt;L&amp;rsquo;IA neuromorphique est une branche de l&amp;rsquo;intelligence artificielle qui imite la structure et le fonctionnement des neurones biologiques. Elle utilise des &lt;strong&gt;réseaux de neurones spiking (SNN)&lt;/strong&gt; pour traiter l&amp;rsquo;information de manière asynchrone et événementielle, ce qui la rend particulièrement adaptée aux environnements où les ressources sont limitées.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introduction à l&#39;IA neuromorphique pour les appareils IoT</title>
-      <link>http://localhost:1313/blog/premier-article/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/premier-article/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;IA neuromorphique est une approche prometteuse pour les appareils IoT à ressources limitées. Contrairement aux réseaux de neurones traditionnels, l&amp;rsquo;IA neuromorphique s&amp;rsquo;inspire du fonctionnement du cerveau humain pour créer des systèmes capables d&amp;rsquo;apprendre et de s&amp;rsquo;adapter de manière plus efficace et économe en énergie.&lt;/p&gt;&#xA;&lt;h3 id=&#34;quest-ce-que-lia-neuromorphique-&#34;&gt;Qu&amp;rsquo;est-ce que l&amp;rsquo;IA neuromorphique ?&lt;/h3&gt;&#xA;&lt;p&gt;L&amp;rsquo;IA neuromorphique est une branche de l&amp;rsquo;intelligence artificielle qui imite la structure et le fonctionnement des neurones biologiques. Elle utilise des &lt;strong&gt;réseaux de neurones spiking (SNN)&lt;/strong&gt; pour traiter l&amp;rsquo;information de manière asynchrone et événementielle, ce qui la rend particulièrement adaptée aux environnements où les ressources sont limitées.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introduction to Neuromorphic AI for IoT Devices</title>
-      <link>http://localhost:1313/blog/introduction-neuromorphic-ai-iot/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/introduction-neuromorphic-ai-iot/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Neuromorphic AI is a promising approach for resource-constrained IoT devices. Unlike traditional neural networks, neuromorphic AI draws inspiration from the functioning of the human brain to create systems capable of learning and adapting more efficiently and energy-effectively.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-neuromorphic-ai&#34;&gt;What is Neuromorphic AI?&lt;/h3&gt;&#xA;&lt;p&gt;Neuromorphic AI is a branch of artificial intelligence that mimics the structure and functioning of biological neurons. It uses &lt;strong&gt;spiking neural networks (SNNs)&lt;/strong&gt; to process information asynchronously and event-driven, making it particularly suited for environments where resources are limited.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Mon Site Hugo</title><link>https://stevelengui.github.io/blog/</link><description>Recent content in Blogs on Mon Site Hugo</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stevelengui.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Déployer un modèle SNN sur RISC-V avec l'émulateur QEMU</title><link>https://stevelengui.github.io/blog/deployer-snn-riscv.fr/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/deployer-snn-riscv.fr/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Le déploiement de réseaux de neurones spiking (SNN) sur des architectures RISC-V est une étape clé pour rendre l&amp;rsquo;IA neuromorphique accessible aux dispositifs IoT à ressources limitées. Dans cet article, nous explorons comment utiliser l&amp;rsquo;émulateur QEMU pour tester et déployer des modèles SNN sur une architecture RISC-V.&lt;/p>
+&lt;h3 id="pourquoi-utiliser-qemu-">Pourquoi utiliser QEMU ?&lt;/h3>
+&lt;p>QEMU est un émulateur open-source qui permet de simuler des architectures matérielles, y compris RISC-V. Il est particulièrement utile pour :&lt;/p></description></item><item><title>Deploying an SNN Model on RISC-V with QEMU Emulator</title><link>https://stevelengui.github.io/blog/deploy-snn-riscv/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/deploy-snn-riscv/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Deploying spiking neural networks (SNNs) on RISC-V architectures is a key step in making neuromorphic AI accessible to resource-constrained IoT devices. In this article, we explore how to use the QEMU emulator to test and deploy SNN models on a RISC-V architecture.&lt;/p>
+&lt;h3 id="why-use-qemu">Why Use QEMU?&lt;/h3>
+&lt;p>QEMU is an open-source emulator that allows simulating hardware architectures, including RISC-V. It is particularly useful for:&lt;/p>
+&lt;ul>
+&lt;li>Testing SNN models without needing physical hardware.&lt;/li>
+&lt;li>Debugging and optimizing model performance before deployment on real hardware.&lt;/li>
+&lt;/ul>
+&lt;h3 id="steps-to-deploy-an-snn-model-on-risc-v-with-qemu">Steps to Deploy an SNN Model on RISC-V with QEMU&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Environment Setup&lt;/strong>:&lt;/p></description></item><item><title>Implémentation d'un modèle hybride SNN-QNN sur l'accélérateur RISC-V avec l'émulateur QEMU</title><link>https://stevelengui.github.io/blog/implementation-modele-hybride-snn-qnn.fr/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/implementation-modele-hybride-snn-qnn.fr/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Les modèles hybrides combinant des réseaux de neurones spiking (SNN) et des réseaux de neurones quantifiés (QNN) offrent un équilibre entre efficacité énergétique et précision. Dans cet article, nous explorons comment implémenter un tel modèle sur un accélérateur RISC-V en utilisant l&amp;rsquo;émulateur QEMU.&lt;/p>
+&lt;h3 id="pourquoi-un-modèle-hybride-snn-qnn-">Pourquoi un modèle hybride SNN-QNN ?&lt;/h3>
+&lt;p>Les modèles hybrides SNN-QNN combinent les avantages des deux approches :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>SNN&lt;/strong> : Faible consommation d&amp;rsquo;énergie et traitement en temps réel.&lt;/li>
+&lt;li>&lt;strong>QNN&lt;/strong> : Précision accrue grâce à la quantification des poids et des activations.&lt;/li>
+&lt;/ul>
+&lt;h3 id="étapes-pour-implémenter-un-modèle-hybride-snn-qnn-sur-risc-v-avec-qemu">Étapes pour implémenter un modèle hybride SNN-QNN sur RISC-V avec QEMU&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Préparation de l&amp;rsquo;environnement&lt;/strong> :&lt;/p></description></item><item><title>Implementation of a Hybrid SNN-QNN Model on RISC-V Accelerator with QEMU Emulator</title><link>https://stevelengui.github.io/blog/implementation-hybrid-snn-qnn-model/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/implementation-hybrid-snn-qnn-model/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Hybrid models combining spiking neural networks (SNNs) and quantized neural networks (QNNs) offer a balance between energy efficiency and accuracy. In this article, we explore how to implement such a model on a RISC-V accelerator using the QEMU emulator.&lt;/p>
+&lt;h3 id="why-a-hybrid-snn-qnn-model">Why a Hybrid SNN-QNN Model?&lt;/h3>
+&lt;p>Hybrid SNN-QNN models combine the advantages of both approaches:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>SNN&lt;/strong>: Low energy consumption and real-time processing.&lt;/li>
+&lt;li>&lt;strong>QNN&lt;/strong>: Increased accuracy through weight and activation quantization.&lt;/li>
+&lt;/ul>
+&lt;h3 id="steps-to-implement-a-hybrid-snn-qnn-model-on-risc-v-with-qemu">Steps to Implement a Hybrid SNN-QNN Model on RISC-V with QEMU&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Environment Setup&lt;/strong>:&lt;/p></description></item><item><title>Introduction à l'IA neuromorphique pour les appareils IoT</title><link>https://stevelengui.github.io/blog/introduction-ia-neuromorphique-iot.fr/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/introduction-ia-neuromorphique-iot.fr/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>L&amp;rsquo;IA neuromorphique est une approche prometteuse pour les appareils IoT à ressources limitées. Contrairement aux réseaux de neurones traditionnels, l&amp;rsquo;IA neuromorphique s&amp;rsquo;inspire du fonctionnement du cerveau humain pour créer des systèmes capables d&amp;rsquo;apprendre et de s&amp;rsquo;adapter de manière plus efficace et économe en énergie.&lt;/p>
+&lt;h3 id="quest-ce-que-lia-neuromorphique-">Qu&amp;rsquo;est-ce que l&amp;rsquo;IA neuromorphique ?&lt;/h3>
+&lt;p>L&amp;rsquo;IA neuromorphique est une branche de l&amp;rsquo;intelligence artificielle qui imite la structure et le fonctionnement des neurones biologiques. Elle utilise des &lt;strong>réseaux de neurones spiking (SNN)&lt;/strong> pour traiter l&amp;rsquo;information de manière asynchrone et événementielle, ce qui la rend particulièrement adaptée aux environnements où les ressources sont limitées.&lt;/p></description></item><item><title>Introduction à l'IA neuromorphique pour les appareils IoT</title><link>https://stevelengui.github.io/blog/premier-article/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/premier-article/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>L&amp;rsquo;IA neuromorphique est une approche prometteuse pour les appareils IoT à ressources limitées. Contrairement aux réseaux de neurones traditionnels, l&amp;rsquo;IA neuromorphique s&amp;rsquo;inspire du fonctionnement du cerveau humain pour créer des systèmes capables d&amp;rsquo;apprendre et de s&amp;rsquo;adapter de manière plus efficace et économe en énergie.&lt;/p>
+&lt;h3 id="quest-ce-que-lia-neuromorphique-">Qu&amp;rsquo;est-ce que l&amp;rsquo;IA neuromorphique ?&lt;/h3>
+&lt;p>L&amp;rsquo;IA neuromorphique est une branche de l&amp;rsquo;intelligence artificielle qui imite la structure et le fonctionnement des neurones biologiques. Elle utilise des &lt;strong>réseaux de neurones spiking (SNN)&lt;/strong> pour traiter l&amp;rsquo;information de manière asynchrone et événementielle, ce qui la rend particulièrement adaptée aux environnements où les ressources sont limitées.&lt;/p></description></item><item><title>Introduction to Neuromorphic AI for IoT Devices</title><link>https://stevelengui.github.io/blog/introduction-neuromorphic-ai-iot/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/introduction-neuromorphic-ai-iot/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Neuromorphic AI is a promising approach for resource-constrained IoT devices. Unlike traditional neural networks, neuromorphic AI draws inspiration from the functioning of the human brain to create systems capable of learning and adapting more efficiently and energy-effectively.&lt;/p>
+&lt;h3 id="what-is-neuromorphic-ai">What is Neuromorphic AI?&lt;/h3>
+&lt;p>Neuromorphic AI is a branch of artificial intelligence that mimics the structure and functioning of biological neurons. It uses &lt;strong>spiking neural networks (SNNs)&lt;/strong> to process information asynchronously and event-driven, making it particularly suited for environments where resources are limited.&lt;/p></description></item></channel></rss>
