@@ -1,3 +1,45 @@
-<!doctype html><html><head><title>Déployer un modèle SNN sur RISC-V avec l'émulateur QEMU | Mon Site Hugo</title></head><body><h1>Déployer un modèle SNN sur RISC-V avec l'émulateur QEMU</h1><h2 id=introduction>Introduction</h2><p>Le déploiement de réseaux de neurones spiking (SNN) sur des architectures RISC-V est une étape clé pour rendre l&rsquo;IA neuromorphique accessible aux dispositifs IoT à ressources limitées. Dans cet article, nous explorons comment utiliser l&rsquo;émulateur QEMU pour tester et déployer des modèles SNN sur une architecture RISC-V.</p><h3 id=pourquoi-utiliser-qemu->Pourquoi utiliser QEMU ?</h3><p>QEMU est un émulateur open-source qui permet de simuler des architectures matérielles, y compris RISC-V. Il est particulièrement utile pour :</p><ul><li>Tester des modèles SNN sans avoir besoin de matériel physique.</li><li>Déboguer et optimiser les performances des modèles avant le déploiement sur du matériel réel.</li></ul><h3 id=étapes-pour-déployer-un-modèle-snn-sur-risc-v-avec-qemu>Étapes pour déployer un modèle SNN sur RISC-V avec QEMU</h3><ol><li><p><strong>Préparation de l&rsquo;environnement</strong> :</p><ul><li>Installez QEMU et configurez-le pour émuler une architecture RISC-V.</li><li>Téléchargez ou compilez un noyau Linux compatible RISC-V.</li></ul></li><li><p><strong>Compilation du modèle SNN</strong> :</p><ul><li>Utilisez un framework comme <strong>NEST</strong> ou <strong>Brian2</strong> pour compiler votre modèle SNN.</li><li>Exportez le modèle dans un format compatible avec l&rsquo;environnement RISC-V.</li></ul></li><li><p><strong>Exécution sur QEMU</strong> :</p><ul><li>Chargez le modèle SNN dans l&rsquo;environnement RISC-V émulé.</li><li>Testez le modèle et analysez ses performances.</li></ul></li></ol><h3 id=exemple-de-code>Exemple de code</h3><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span><span style=color:#75715e># Émuler une architecture RISC-V avec QEMU</span>
-</span></span><span style=display:flex><span>qemu-system-riscv64 -kernel bbl -nographic -append <span style=color:#e6db74>&#34;root=/dev/vda ro&#34;</span> -hda rootfs.img
-</span></span></code></pre></div></body></html>
+<!DOCTYPE html>
+<html>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>Déployer un modèle SNN sur RISC-V avec l&#39;émulateur QEMU | Mon Site Hugo</title>
+</head>
+<body>
+  <h1>Déployer un modèle SNN sur RISC-V avec l&#39;émulateur QEMU</h1>
+  <h2 id="introduction">Introduction</h2>
+<p>Le déploiement de réseaux de neurones spiking (SNN) sur des architectures RISC-V est une étape clé pour rendre l&rsquo;IA neuromorphique accessible aux dispositifs IoT à ressources limitées. Dans cet article, nous explorons comment utiliser l&rsquo;émulateur QEMU pour tester et déployer des modèles SNN sur une architecture RISC-V.</p>
+<h3 id="pourquoi-utiliser-qemu-">Pourquoi utiliser QEMU ?</h3>
+<p>QEMU est un émulateur open-source qui permet de simuler des architectures matérielles, y compris RISC-V. Il est particulièrement utile pour :</p>
+<ul>
+<li>Tester des modèles SNN sans avoir besoin de matériel physique.</li>
+<li>Déboguer et optimiser les performances des modèles avant le déploiement sur du matériel réel.</li>
+</ul>
+<h3 id="étapes-pour-déployer-un-modèle-snn-sur-risc-v-avec-qemu">Étapes pour déployer un modèle SNN sur RISC-V avec QEMU</h3>
+<ol>
+<li>
+<p><strong>Préparation de l&rsquo;environnement</strong> :</p>
+<ul>
+<li>Installez QEMU et configurez-le pour émuler une architecture RISC-V.</li>
+<li>Téléchargez ou compilez un noyau Linux compatible RISC-V.</li>
+</ul>
+</li>
+<li>
+<p><strong>Compilation du modèle SNN</strong> :</p>
+<ul>
+<li>Utilisez un framework comme <strong>NEST</strong> ou <strong>Brian2</strong> pour compiler votre modèle SNN.</li>
+<li>Exportez le modèle dans un format compatible avec l&rsquo;environnement RISC-V.</li>
+</ul>
+</li>
+<li>
+<p><strong>Exécution sur QEMU</strong> :</p>
+<ul>
+<li>Chargez le modèle SNN dans l&rsquo;environnement RISC-V émulé.</li>
+<li>Testez le modèle et analysez ses performances.</li>
+</ul>
+</li>
+</ol>
+<h3 id="exemple-de-code">Exemple de code</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Émuler une architecture RISC-V avec QEMU</span>
+</span></span><span style="display:flex;"><span>qemu-system-riscv64 -kernel bbl -nographic -append <span style="color:#e6db74">&#34;root=/dev/vda ro&#34;</span> -hda rootfs.img
+</span></span></code></pre></div>
+</body>
+</html>
