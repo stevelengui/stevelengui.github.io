@@ -2,6 +2,7 @@ baseURL = "https://stevelengui.github.io/"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 publishDir = "docs"
+theme = "ananke"
 
 [languages]
   [languages.fr]
@@ -17,8 +18,6 @@ publishDir = "docs"
   from = "/"
   to = "/fr/"
   status = 301
-
-theme = "ananke"
 
 [params]
   description = "Site personnel de Steve Lengui, doctorant en IA neuromorphique pour IoT."
@@ -97,3 +96,4 @@ theme = "ananke"
   name = "Contact"
   url = "/en/contact/"
   weight = 7
+theme = "ananke"
