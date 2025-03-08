@@ -1,0 +1,7 @@
+<div class="language-switcher">
+  {{ if eq .Site.Language.Lang "fr" }}
+    <a href="{{ .Site.BaseURL }}/en{{ .RelPermalink }}" class="btn">English</a>
+  {{ else }}
+    <a href="{{ .Site.BaseURL }}/fr{{ .RelPermalink }}" class="btn">Français</a>
+  {{ end }}
+</div>

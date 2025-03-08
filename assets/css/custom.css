@@ -1,0 +1,24 @@
+/* Style pour les boutons */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Style pour le sélecteur de langue */
+.language-switcher {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+.language-switcher a {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}

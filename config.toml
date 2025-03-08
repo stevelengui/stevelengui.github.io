@@ -1,6 +1,22 @@
 baseURL = "https://stevelengui.github.io/"
-languageCode = "fr-fr"
-title = "Steve Lengui - PhD in Neuromorphic AI for IoT"
+defaultContentLanguage = "fr"  # Langue par défaut
+defaultContentLanguageInSubdir = true  # Afficher la langue dans l'URL
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    title = "Steve Lengui - Doctorant en IA Neuromorphique"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    title = "Steve Lengui - PhD in Neuromorphic AI"
+    weight = 2
+
+[[redirects]]
+  from = "/"
+  to = "/fr/"
+  status = 301
+
 theme = "ananke"
 publishDir = "docs"
 
@@ -10,44 +26,74 @@ publishDir = "docs"
   github = "https://github.com/stevelengui"
   linkedin = "https://linkedin.com/in/stevelengui"
 
-[[menu.main]]
-  name = "Accueil / Home"
-  url = "/"
+# Menu principal pour le français
+[[languages.fr.menu.main]]
+  name = "Accueil"
+  url = "/fr/"
   weight = 1
 
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Services"
-  url = "/services/"
+  url = "/fr/services/"
   weight = 2
 
-[[menu.main]]
-  name = "À propos / About"
-  url = "/about/"
+[[languages.fr.menu.main]]
+  name = "À propos"
+  url = "/fr/about/"
   weight = 3
 
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Publications"
-  url = "/publications/"
+  url = "/fr/publications/"
   weight = 4
 
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Blog"
-  url = "/posts/"
+  url = "/fr/blog/"
   weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
+[[languages.fr.menu.main]]
+  name = "Projets"
+  url = "/fr/projects/"
   weight = 6
 
-[[menu.main]]
-  name = "Projects"
-  url = "/projects/"
+[[languages.fr.menu.main]]
+  name = "Contact"
+  url = "/fr/contact/"
   weight = 7
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+# Menu principal pour l'anglais
+[[languages.en.menu.main]]
+  name = "Home"
+  url = "/en/"
+  weight = 1
 
-ignoreErrors = ["markup.goldmark.renderer"]
+[[languages.en.menu.main]]
+  name = "Services"
+  url = "/en/services/"
+  weight = 2
+
+[[languages.en.menu.main]]
+  name = "About"
+  url = "/en/about/"
+  weight = 3
+
+[[languages.en.menu.main]]
+  name = "Publications"
+  url = "/en/publications/"
+  weight = 4
+
+[[languages.en.menu.main]]
+  name = "Blog"
+  url = "/en/blog/"
+  weight = 5
+
+[[languages.en.menu.main]]
+  name = "Projects"
+  url = "/en/projects/"
+  weight = 6
+
+[[languages.en.menu.main]]
+  name = "Contact"
+  url = "/en/contact/"
+  weight = 7
