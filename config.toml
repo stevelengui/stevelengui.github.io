@@ -1,7 +1,7 @@
 baseURL = "https://stevelengui.github.io/"
-defaultContentLanguage = "fr"  # Langue par défaut
-defaultContentLanguageInSubdir = true  # Afficher la langue dans l'URL
-publishDir = "docs"  # Dossier de sortie pour GitHub Pages
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+publishDir = "docs"
 
 [languages]
   [languages.fr]
@@ -25,11 +25,6 @@ theme = "ananke"
   author = "Steve Lengui"
   github = "https://github.com/stevelengui"
   linkedin = "https://linkedin.com/in/stevelengui"
-
-  [params.logo]
-    url = "/images/logo.jpg"
-    width = 120
-    height = 40
 
 # Menu principal pour le français
 [[languages.fr.menu.main]]
