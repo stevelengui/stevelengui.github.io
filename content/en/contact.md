@@ -10,5 +10,5 @@ You can reach me via the following means:
 
 - **Email**: [stevelengui@gmail.com](mailto:stevelengui@gmail.com)
 - **GitHub**: [stevelengui](https://github.com/stevelengui)
-- **LinkedIn**: [Lengui Lengui Steve Charnot](https://linkedin.com/in/stevelengui)
+- **LinkedIn**: [Lengui Lengui Steve Charnot](https://www.linkedin.com/in/lengui-lengui-steve-charnot-172074178/)
 

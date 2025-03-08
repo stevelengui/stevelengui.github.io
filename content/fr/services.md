@@ -15,4 +15,4 @@ Description : Nous offrons des formations complètes en TinyML et IA embarquée 
 ### Optimisation de la consommation d'énergie pour les appareils IoT
 Description : Nous optimisons la consommation d'énergie des appareils IoT en utilisant des techniques d'apprentissage bio-inspirées.
 
-[Contactez-nous](/fr/contact/)
+

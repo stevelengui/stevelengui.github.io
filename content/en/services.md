@@ -15,4 +15,4 @@ Description: We offer comprehensive training in TinyML and embedded AI for profe
 ### Energy Consumption Optimization for IoT Devices
 Description: We optimize energy consumption for IoT devices using bio-inspired learning techniques.
 
-[Contact Us](/en/contact/)
+
