@@ -4,7 +4,7 @@
 &lt;ul>
 &lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:stevelengui@gmail.com">stevelengui@gmail.com&lt;/a>&lt;/li>
 &lt;li>&lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/stevelengui">stevelengui&lt;/a>&lt;/li>
-&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/stevelengui">Lengui Lengui Steve Charnot&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://www.linkedin.com/in/lengui-lengui-steve-charnot-172074178/">Lengui Lengui Steve Charnot&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Projects</title><link>https://stevelengui.github.io/en/projects/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/en/projects/</guid><description>&lt;h2 id="recent-projects">Recent Projects&lt;/h2>
 &lt;h3 id="risc-v-snn-deployment">RISC-V SNN Deployment&lt;/h3>
 &lt;p>Description: Implementation of spiking neural networks on RISC-V hardware for ultra-low-power IoT devices.&lt;/p>
