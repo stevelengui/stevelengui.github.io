@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Mon Site Hugo</title><link>https://stevelengui.github.io/</link><description>Recent content in Home on Mon Site Hugo</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stevelengui.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>À propos</title><link>https://stevelengui.github.io/fr/about/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/fr/about/</guid><description>&lt;h2 id="à-propos-de-moi">À propos de moi&lt;/h2>
+&lt;p>Je suis Steve Lengui, doctorant en IA neuromorphique pour IoT. Mon travail se concentre sur l&amp;rsquo;optimisation des modèles d&amp;rsquo;IA pour les microcontrôleurs 32-bit et le déploiement de TinyML sur des accélérateurs matériels open-source.&lt;/p></description></item><item><title>À propos / About</title><link>https://stevelengui.github.io/about/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/about/</guid><description>&lt;h2 id="à-propos-de-moi">À propos de moi&lt;/h2>
+&lt;p>The French translation is hereafter.
+I am Steve Lengui, PhD student in neuromorphic AI for IoT. My work focuses on optimizing AI models for 32-bit microcontrollers and deploying TinyML on open-source hardware accelerators.
+Je suis Steve Lengui, doctorant en IA neuromorphique pour IoT. Mon travail se concentre sur l&amp;rsquo;optimisation des modèles d&amp;rsquo;IA pour les microcontrôleurs 32-bit et le déploiement de TinyML sur des accélérateurs matériels open-source.&lt;/p></description></item><item><title>About</title><link>https://stevelengui.github.io/en/about/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/en/about/</guid><description>&lt;h2 id="about-me">About Me&lt;/h2>
+&lt;p>I am Steve Lengui, a PhD candidate in neuromorphic AI for IoT. My work focuses on optimizing AI models for 32-bit microcontrollers and deploying TinyML on open-source hardware accelerators.&lt;/p></description></item><item><title>Accueil</title><link>https://stevelengui.github.io/_index.fr/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/_index.fr/</guid><description>&lt;h2 id="bienvenue-sur-mon-site-">Bienvenue sur mon site !&lt;/h2>
+&lt;h3 id="steve-lengui---doctorant-en-ia-neuromorphique-pour-liot">Steve Lengui - Doctorant en IA Neuromorphique pour l&amp;rsquo;IoT&lt;/h3>
+&lt;p>🧠 &lt;strong>Recherche en Edge AI&lt;/strong>&lt;/p>
+&lt;p>Je suis doctorant en IA neuromorphique, spécialisé dans le déploiement de réseaux de neurones spiking (SNN) et de réseaux de neurones binarisés (BNN) sur des architectures RISC-V pour des dispositifs IoT à ressources limitées.&lt;/p>
+&lt;h3 id="accédez-aux-sections-">Accédez aux sections :&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://stevelengui.github.io/fr/about/">À propos&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stevelengui.github.io/fr/services/">Services&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stevelengui.github.io/fr/publications/">Publications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stevelengui.github.io/fr/blog/">Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stevelengui.github.io/fr/projects/">Projets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stevelengui.github.io/fr/contact/">Contact&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Contact</title><link>https://stevelengui.github.io/contact/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/contact/</guid><description>&lt;h2 id="contactez-nous">Contactez-nous&lt;/h2>
+&lt;p>Veuillez remplir le formulaire ci-dessous pour nous contacter.&lt;/p>
+&lt;!-- raw HTML omitted --></description></item><item><title>Contact</title><link>https://stevelengui.github.io/en/contact/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/en/contact/</guid><description>&lt;h2 id="contact-me">Contact Me&lt;/h2>
+&lt;p>You can reach me via the following means:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:stevelengui@gmail.com">stevelengui@gmail.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/stevelengui">stevelengui&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/stevelengui">Lengui Lengui Steve Charnot&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Or use the contact form below:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">form&lt;/span> &lt;span style="color:#a6e22e">action&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://formspree.io/f/your-form-id&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">method&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;POST&amp;#34;&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">label&lt;/span> &lt;span style="color:#a6e22e">for&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span>&amp;gt;Name:&amp;lt;/&lt;span style="color:#f92672">label&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">input&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;text&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">name&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">required&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">label&lt;/span> &lt;span style="color:#a6e22e">for&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;email&amp;#34;&lt;/span>&amp;gt;Email:&amp;lt;/&lt;span style="color:#f92672">label&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">input&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;email&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;email&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">name&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;email&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">required&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">label&lt;/span> &lt;span style="color:#a6e22e">for&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;message&amp;#34;&lt;/span>&amp;gt;Message:&amp;lt;/&lt;span style="color:#f92672">label&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">textarea&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;message&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">name&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;message&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">required&lt;/span>&amp;gt;&amp;lt;/&lt;span style="color:#f92672">textarea&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">button&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;submit&amp;#34;&lt;/span>&amp;gt;Send&amp;lt;/&lt;span style="color:#f92672">button&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">form&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Contact</title><link>https://stevelengui.github.io/fr/contact/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/fr/contact/</guid><description>&lt;h2 id="contactez-moi">Contactez-moi&lt;/h2>
+&lt;p>Vous pouvez me contacter via les moyens suivants :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Email&lt;/strong> : &lt;a href="mailto:stevelengui@gmail.com">stevelengui@gmail.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>GitHub&lt;/strong> : &lt;a href="https://github.com/stevelengui">stevelengui&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong> : &lt;a href="https://linkedin.com/in/stevelengui">Lengui Lengui Steve Charnot&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Ou utilisez le formulaire de contact ci-dessous :&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">form&lt;/span> &lt;span style="color:#a6e22e">action&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://formspree.io/f/your-form-id&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">method&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;POST&amp;#34;&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">label&lt;/span> &lt;span style="color:#a6e22e">for&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span>&amp;gt;Nom :&amp;lt;/&lt;span style="color:#f92672">label&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">input&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;text&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">name&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">required&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">label&lt;/span> &lt;span style="color:#a6e22e">for&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;email&amp;#34;&lt;/span>&amp;gt;Email :&amp;lt;/&lt;span style="color:#f92672">label&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">input&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;email&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;email&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">name&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;email&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">required&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">label&lt;/span> &lt;span style="color:#a6e22e">for&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;message&amp;#34;&lt;/span>&amp;gt;Message :&amp;lt;/&lt;span style="color:#f92672">label&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">textarea&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;message&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">name&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;message&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">required&lt;/span>&amp;gt;&amp;lt;/&lt;span style="color:#f92672">textarea&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">button&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;submit&amp;#34;&lt;/span>&amp;gt;Envoyer&amp;lt;/&lt;span style="color:#f92672">button&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">form&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Déployer un modèle SNN sur RISC-V avec l'émulateur QEMU</title><link>https://stevelengui.github.io/blog/deployer-snn-riscv.fr/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/deployer-snn-riscv.fr/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Le déploiement de réseaux de neurones spiking (SNN) sur des architectures RISC-V est une étape clé pour rendre l&amp;rsquo;IA neuromorphique accessible aux dispositifs IoT à ressources limitées. Dans cet article, nous explorons comment utiliser l&amp;rsquo;émulateur QEMU pour tester et déployer des modèles SNN sur une architecture RISC-V.&lt;/p>
+&lt;h3 id="pourquoi-utiliser-qemu-">Pourquoi utiliser QEMU ?&lt;/h3>
+&lt;p>QEMU est un émulateur open-source qui permet de simuler des architectures matérielles, y compris RISC-V. Il est particulièrement utile pour :&lt;/p></description></item><item><title>Deploying an SNN Model on RISC-V with QEMU Emulator</title><link>https://stevelengui.github.io/blog/deploy-snn-riscv/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/deploy-snn-riscv/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Deploying spiking neural networks (SNNs) on RISC-V architectures is a key step in making neuromorphic AI accessible to resource-constrained IoT devices. In this article, we explore how to use the QEMU emulator to test and deploy SNN models on a RISC-V architecture.&lt;/p>
+&lt;h3 id="why-use-qemu">Why Use QEMU?&lt;/h3>
+&lt;p>QEMU is an open-source emulator that allows simulating hardware architectures, including RISC-V. It is particularly useful for:&lt;/p>
+&lt;ul>
+&lt;li>Testing SNN models without needing physical hardware.&lt;/li>
+&lt;li>Debugging and optimizing model performance before deployment on real hardware.&lt;/li>
+&lt;/ul>
+&lt;h3 id="steps-to-deploy-an-snn-model-on-risc-v-with-qemu">Steps to Deploy an SNN Model on RISC-V with QEMU&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Environment Setup&lt;/strong>:&lt;/p></description></item><item><title>Implémentation d'un modèle hybride SNN-QNN sur l'accélérateur RISC-V avec l'émulateur QEMU</title><link>https://stevelengui.github.io/blog/implementation-modele-hybride-snn-qnn.fr/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/implementation-modele-hybride-snn-qnn.fr/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Les modèles hybrides combinant des réseaux de neurones spiking (SNN) et des réseaux de neurones quantifiés (QNN) offrent un équilibre entre efficacité énergétique et précision. Dans cet article, nous explorons comment implémenter un tel modèle sur un accélérateur RISC-V en utilisant l&amp;rsquo;émulateur QEMU.&lt;/p>
+&lt;h3 id="pourquoi-un-modèle-hybride-snn-qnn-">Pourquoi un modèle hybride SNN-QNN ?&lt;/h3>
+&lt;p>Les modèles hybrides SNN-QNN combinent les avantages des deux approches :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>SNN&lt;/strong> : Faible consommation d&amp;rsquo;énergie et traitement en temps réel.&lt;/li>
+&lt;li>&lt;strong>QNN&lt;/strong> : Précision accrue grâce à la quantification des poids et des activations.&lt;/li>
+&lt;/ul>
+&lt;h3 id="étapes-pour-implémenter-un-modèle-hybride-snn-qnn-sur-risc-v-avec-qemu">Étapes pour implémenter un modèle hybride SNN-QNN sur RISC-V avec QEMU&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Préparation de l&amp;rsquo;environnement&lt;/strong> :&lt;/p></description></item><item><title>Implementation of a Hybrid SNN-QNN Model on RISC-V Accelerator with QEMU Emulator</title><link>https://stevelengui.github.io/blog/implementation-hybrid-snn-qnn-model/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/implementation-hybrid-snn-qnn-model/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Hybrid models combining spiking neural networks (SNNs) and quantized neural networks (QNNs) offer a balance between energy efficiency and accuracy. In this article, we explore how to implement such a model on a RISC-V accelerator using the QEMU emulator.&lt;/p>
+&lt;h3 id="why-a-hybrid-snn-qnn-model">Why a Hybrid SNN-QNN Model?&lt;/h3>
+&lt;p>Hybrid SNN-QNN models combine the advantages of both approaches:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>SNN&lt;/strong>: Low energy consumption and real-time processing.&lt;/li>
+&lt;li>&lt;strong>QNN&lt;/strong>: Increased accuracy through weight and activation quantization.&lt;/li>
+&lt;/ul>
+&lt;h3 id="steps-to-implement-a-hybrid-snn-qnn-model-on-risc-v-with-qemu">Steps to Implement a Hybrid SNN-QNN Model on RISC-V with QEMU&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Environment Setup&lt;/strong>:&lt;/p></description></item><item><title>Introduction à l'IA neuromorphique pour les appareils IoT</title><link>https://stevelengui.github.io/blog/introduction-ia-neuromorphique-iot.fr/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/introduction-ia-neuromorphique-iot.fr/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>L&amp;rsquo;IA neuromorphique est une approche prometteuse pour les appareils IoT à ressources limitées. Contrairement aux réseaux de neurones traditionnels, l&amp;rsquo;IA neuromorphique s&amp;rsquo;inspire du fonctionnement du cerveau humain pour créer des systèmes capables d&amp;rsquo;apprendre et de s&amp;rsquo;adapter de manière plus efficace et économe en énergie.&lt;/p>
+&lt;h3 id="quest-ce-que-lia-neuromorphique-">Qu&amp;rsquo;est-ce que l&amp;rsquo;IA neuromorphique ?&lt;/h3>
+&lt;p>L&amp;rsquo;IA neuromorphique est une branche de l&amp;rsquo;intelligence artificielle qui imite la structure et le fonctionnement des neurones biologiques. Elle utilise des &lt;strong>réseaux de neurones spiking (SNN)&lt;/strong> pour traiter l&amp;rsquo;information de manière asynchrone et événementielle, ce qui la rend particulièrement adaptée aux environnements où les ressources sont limitées.&lt;/p></description></item><item><title>Introduction à l'IA neuromorphique pour les appareils IoT</title><link>https://stevelengui.github.io/blog/premier-article/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/premier-article/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>L&amp;rsquo;IA neuromorphique est une approche prometteuse pour les appareils IoT à ressources limitées. Contrairement aux réseaux de neurones traditionnels, l&amp;rsquo;IA neuromorphique s&amp;rsquo;inspire du fonctionnement du cerveau humain pour créer des systèmes capables d&amp;rsquo;apprendre et de s&amp;rsquo;adapter de manière plus efficace et économe en énergie.&lt;/p>
+&lt;h3 id="quest-ce-que-lia-neuromorphique-">Qu&amp;rsquo;est-ce que l&amp;rsquo;IA neuromorphique ?&lt;/h3>
+&lt;p>L&amp;rsquo;IA neuromorphique est une branche de l&amp;rsquo;intelligence artificielle qui imite la structure et le fonctionnement des neurones biologiques. Elle utilise des &lt;strong>réseaux de neurones spiking (SNN)&lt;/strong> pour traiter l&amp;rsquo;information de manière asynchrone et événementielle, ce qui la rend particulièrement adaptée aux environnements où les ressources sont limitées.&lt;/p></description></item><item><title>Introduction à l'IA neuromorphique pour les appareils IoT</title><link>https://stevelengui.github.io/posts/my-first-post/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/posts/my-first-post/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>L&amp;rsquo;IA neuromorphique est une approche prometteuse pour les appareils IoT à ressources limitées. Contrairement aux réseaux de neurones traditionnels, l&amp;rsquo;IA neuromorphique s&amp;rsquo;inspire du fonctionnement du cerveau humain pour créer des systèmes capables d&amp;rsquo;apprendre et de s&amp;rsquo;adapter de manière plus efficace et économe en énergie.&lt;/p>
+&lt;h3 id="quest-ce-que-lia-neuromorphique-">Qu&amp;rsquo;est-ce que l&amp;rsquo;IA neuromorphique ?&lt;/h3>
+&lt;p>L&amp;rsquo;IA neuromorphique est une branche de l&amp;rsquo;intelligence artificielle qui imite la structure et le fonctionnement des neurones biologiques. Elle utilise des &lt;strong>réseaux de neurones spiking (SNN)&lt;/strong> pour traiter l&amp;rsquo;information de manière asynchrone et événementielle, ce qui la rend particulièrement adaptée aux environnements où les ressources sont limitées.&lt;/p></description></item><item><title>Introduction to Neuromorphic AI for IoT Devices</title><link>https://stevelengui.github.io/blog/introduction-neuromorphic-ai-iot/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/blog/introduction-neuromorphic-ai-iot/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Neuromorphic AI is a promising approach for resource-constrained IoT devices. Unlike traditional neural networks, neuromorphic AI draws inspiration from the functioning of the human brain to create systems capable of learning and adapting more efficiently and energy-effectively.&lt;/p>
+&lt;h3 id="what-is-neuromorphic-ai">What is Neuromorphic AI?&lt;/h3>
+&lt;p>Neuromorphic AI is a branch of artificial intelligence that mimics the structure and functioning of biological neurons. It uses &lt;strong>spiking neural networks (SNNs)&lt;/strong> to process information asynchronously and event-driven, making it particularly suited for environments where resources are limited.&lt;/p></description></item><item><title>Projects</title><link>https://stevelengui.github.io/en/projects/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/en/projects/</guid><description>&lt;h2 id="recent-projects">Recent Projects&lt;/h2>
+&lt;h3 id="risc-v-snn-deployment">RISC-V SNN Deployment&lt;/h3>
+&lt;p>Description: Implementation of spiking neural networks on RISC-V hardware for ultra-low-power IoT devices.&lt;/p>
+&lt;h3 id="optimizing-edge-ai-for-risc-v">Optimizing Edge AI for RISC-V&lt;/h3>
+&lt;p>Description: Techniques for deploying hybrid SNN and QNN models on RISC-V hardware.&lt;/p></description></item><item><title>Projects</title><link>https://stevelengui.github.io/projects/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/projects/</guid><description>&lt;h2 id="projects">Projects&lt;/h2>
+&lt;h3 id="risc-v-snn-deployment">RISC-V SNN Deployment&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Description&lt;/strong>: Implementation of spiking neural networks on RISC-V hardware for ultra-low-power IoT devices.&lt;/li>
+&lt;/ul>
+&lt;h3 id="optimizing-tinyml-for-iot-sensors">Optimizing TinyML for IoT Sensors&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Description&lt;/strong>: Techniques for optimizing TinyML models for sensors in IoT devices.&lt;/li>
+&lt;/ul>
+&lt;h3 id="qemu-risc-v-simulations-for-ai-models">QEMU-RISC-V Simulations for AI Models&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Description&lt;/strong>: Running simulations on QEMU-RISC-V for testing AI models.&lt;/li>
+&lt;/ul></description></item><item><title>Projets</title><link>https://stevelengui.github.io/fr/projects/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/fr/projects/</guid><description>&lt;h2 id="mes-projets-récents">Mes Projets Récents&lt;/h2>
+&lt;h3 id="déploiement-de-snn-sur-risc-v">Déploiement de SNN sur RISC-V&lt;/h3>
+&lt;p>Description : Implémentation de réseaux de neurones spiking sur du matériel RISC-V pour des dispositifs IoT à ultra-basse consommation.&lt;/p>
+&lt;h3 id="optimisation-de-lia-embarquée-pour-risc-v">Optimisation de l&amp;rsquo;IA embarquée pour RISC-V&lt;/h3>
+&lt;p>Description : Techniques pour déployer des modèles hybrides SNN et QNN sur du matériel RISC-V.&lt;/p></description></item><item><title>Publications</title><link>https://stevelengui.github.io/en/publications/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/en/publications/</guid><description>&lt;h2 id="recent-publications">Recent Publications&lt;/h2>
+&lt;h3 id="2025">2025&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Efficient Neural Network Implementations on RISC-V Architectures for IoT: A State of the Art and Perspectives for SNN, QNN, and BNN Networks&lt;/strong>
+&lt;em>Elsevier to Microprocessors and Microsystems Journal&lt;/em>
+&lt;a href="#">https://acrobat.adobe.com/id/urn:aaid:sc:EU:69c3613d-6de3-4b56-8688-2b69b69b4544&lt;/a>
+&lt;strong>Abstract&lt;/strong>: The proliferation of IoT devices necessitates energy-efficient AI solutions that balance computational demands with power constraints.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Implementation of Hybrid Spiking-Quantized Neural Networks on RISC-V for Resource-Constrained IoT Devices&lt;/strong>
+&lt;em>Elsevier to Microprocessors and Microsystems Journal&lt;/em>
+&lt;a href="#">https://acrobat.adobe.com/id/urn:aaid:sc:EU:23d45602-724f-4750-8140-85dd9a8cdd53&lt;/a>
+&lt;strong>Abstract&lt;/strong>: This paper presents the implementation of a hybrid Spiking Neural Network (SNN) and Quantized Neural Network (QNN) on RISC-V architecture for resource-constrained IoT devices.&lt;/p></description></item><item><title>Publications</title><link>https://stevelengui.github.io/fr/publications/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/fr/publications/</guid><description>&lt;h2 id="mes-publications-récentes">Mes Publications Récentes&lt;/h2>
+&lt;h3 id="2025">2025&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Implémentation efficace de réseaux de neurones sur des architectures RISC-V pour l&amp;rsquo;IoT : État de l&amp;rsquo;art et perspectives pour les réseaux SNN, QNN et BNN&lt;/strong>
+&lt;em>Elsevier to Microprocessors and Microsystems Journal&lt;/em>
+&lt;a href="#">https://acrobat.adobe.com/id/urn:aaid:sc:EU:69c3613d-6de3-4b56-8688-2b69b69b4544&lt;/a>
+&lt;strong>Résumé&lt;/strong> : La prolifération des dispositifs IoT nécessite des solutions d&amp;rsquo;IA écoénergétiques qui équilibrent les demandes de calcul avec les contraintes énergétiques.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Implémentation de réseaux de neurones hybrides spiking-quantisés sur RISC-V pour des dispositifs IoT à ressources limitées&lt;/strong>
+&lt;em>Elsevier to Microprocessors and Microsystems Journal&lt;/em>
+&lt;a href="#">https://acrobat.adobe.com/id/urn:aaid:sc:EU:23d45602-724f-4750-8140-85dd9a8cdd53&lt;/a>
+&lt;strong>Résumé&lt;/strong> : Cet article présente l&amp;rsquo;implémentation d&amp;rsquo;un réseau de neurones hybride (SNN et QNN) sur une architecture RISC-V pour des dispositifs IoT à ressources limitées.&lt;/p></description></item><item><title>Services</title><link>https://stevelengui.github.io/en/services/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/en/services/</guid><description>&lt;h2 id="services">Services&lt;/h2>
+&lt;h3 id="deployment-of-ai-models-on-risc-v">Deployment of AI Models on RISC-V&lt;/h3>
+&lt;p>Description: We deploy AI models on RISC-V architectures for resource-constrained IoT devices.&lt;/p>
+&lt;h3 id="training-in-tinyml-and-embedded-ai">Training in TinyML and Embedded AI&lt;/h3>
+&lt;p>Description: We offer comprehensive training in TinyML and embedded AI for professionals and businesses.&lt;/p>
+&lt;h3 id="energy-consumption-optimization-for-iot-devices">Energy Consumption Optimization for IoT Devices&lt;/h3>
+&lt;p>Description: We optimize energy consumption for IoT devices using bio-inspired learning techniques.&lt;/p>
+&lt;p>&lt;a href="https://stevelengui.github.io/en/contact/">Contact Us&lt;/a>&lt;/p></description></item><item><title>Services</title><link>https://stevelengui.github.io/fr/services/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/fr/services/</guid><description>&lt;h2 id="services">Services&lt;/h2>
+&lt;h3 id="déploiement-de-modèles-dia-sur-risc-v">Déploiement de modèles d&amp;rsquo;IA sur RISC-V&lt;/h3>
+&lt;p>Description : Nous déployons des modèles d&amp;rsquo;IA sur des architectures RISC-V pour des dispositifs IoT à ressources limitées.&lt;/p>
+&lt;h3 id="formation-en-tinyml-et-ia-embarquée">Formation en TinyML et IA embarquée&lt;/h3>
+&lt;p>Description : Nous offrons des formations complètes en TinyML et IA embarquée pour les professionnels et les entreprises.&lt;/p>
+&lt;h3 id="optimisation-de-la-consommation-dénergie-pour-les-appareils-iot">Optimisation de la consommation d&amp;rsquo;énergie pour les appareils IoT&lt;/h3>
+&lt;p>Description : Nous optimisons la consommation d&amp;rsquo;énergie des appareils IoT en utilisant des techniques d&amp;rsquo;apprentissage bio-inspirées.&lt;/p></description></item><item><title>Services</title><link>https://stevelengui.github.io/services/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/services/</guid><description>&lt;h2 id="services">Services&lt;/h2>
+&lt;h3 id="déploiement-de-modèles-dia-sur-risc-v">Déploiement de modèles d&amp;rsquo;IA sur RISC-V&lt;/h3>
+&lt;p>Description: Nous déployons des modèles d&amp;rsquo;IA sur des architectures RISC-V pour des dispositifs IoT à ressources limitées.&lt;/p>
+&lt;h3 id="formation-en-tinyml-et-ia-embarquée">Formation en TinyML et IA embarquée&lt;/h3>
+&lt;p>Description: Nous offrons des formations complètes en TinyML et IA embarquée pour les professionnels et les entreprises.&lt;/p>
+&lt;h3 id="optimisation-de-la-consommation-dénergie-pour-les-appareils-iot">Optimisation de la consommation d&amp;rsquo;énergie pour les appareils IoT&lt;/h3>
+&lt;p>Description: Nous optimisons la consommation d&amp;rsquo;énergie des appareils IoT en utilisant des techniques d&amp;rsquo;apprentissage bio-inspirées.&lt;/p></description></item><item><title>Optimizing Edge AI for RISC-V</title><link>https://stevelengui.github.io/posts/optimizing-edge-ai-for-riscv/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/posts/optimizing-edge-ai-for-riscv/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This post explores techniques for optimizing edge AI models on RISC-V hardware.&lt;/p>
+&lt;h3 id="key-techniques">Key Techniques&lt;/h3>
+&lt;ul>
+&lt;li>Quantization.&lt;/li>
+&lt;li>Pruning.&lt;/li>
+&lt;li>Hardware-aware optimization.&lt;/li>
+&lt;/ul></description></item><item><title>RISC-V SNN Deployment</title><link>https://stevelengui.github.io/projects/riscv-snn/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/projects/riscv-snn/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>This project demonstrates the deployment of spiking neural networks (SNNs) on RISC-V accelerators for ultra-low-power IoT devices.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>SNN Optimization&lt;/strong>: Reduced power consumption by 60% compared to traditional CNNs.&lt;/li>
+&lt;li>&lt;strong>RISC-V Toolchain&lt;/strong>: Leveraged QEMU for simulation and testing.&lt;/li>
+&lt;li>&lt;strong>Real-World Applications&lt;/strong>: Deployed on IoT sensors for environmental monitoring.&lt;/li>
+&lt;/ul>
+&lt;h2 id="results">Results&lt;/h2>
+&lt;ul>
+&lt;li>Achieved &lt;strong>70% power savings&lt;/strong> on RISC-V hardware.&lt;/li>
+&lt;li>Published findings in [Microprocessors and Microsystems Journal]&lt;/li>
+&lt;/ul>
+&lt;h2 id="code-repository">Code Repository&lt;/h2>
+&lt;p>Check out the code on &lt;a href="https://github.com/stevelengui/RISC-V-SNN-Demo">GitHub&lt;/a>.&lt;/p></description></item><item><title>Déploiement de SNN sur SoC RISC-V</title><link>https://stevelengui.github.io/posts/deploying-snn-riscv/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/posts/deploying-snn-riscv/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Notre méthode hybride SNN/QNN permet une réduction de 72% de la consommation énergétique sur des benchmarks MLPerf Tiny&amp;hellip;&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-c" data-lang="c">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">// Exemple de code d&amp;#39;optimisation
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#66d9ef">void&lt;/span> &lt;span style="color:#a6e22e">snn_inference&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">riscv_pulp_io_write&lt;/span>(SNN_CFG, &lt;span style="color:#ae81ff">0x1A3F&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">while&lt;/span>(&lt;span style="color:#f92672">!&lt;/span>(&lt;span style="color:#a6e22e">riscv_pulp_io_read&lt;/span>(SNN_STATUS) &lt;span style="color:#f92672">&amp;amp;&lt;/span> &lt;span style="color:#ae81ff">0x1&lt;/span>));
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Publications</title><link>https://stevelengui.github.io/publications/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://stevelengui.github.io/publications/</guid><description>&lt;h2 id="mes-publications-récentes--recent-publications">Mes Publications Récentes / Recent Publications&lt;/h2>
+&lt;h3 id="2025">2025&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Efficient Neural Network Implementations on RISC-V Architectures for IoT: A State of the Art and Perspectives for SNN, QNN, and BNN Networks&lt;/strong>
+&lt;em>Elsevier to Microprocessors and Microsystems Journal&lt;/em>
+&lt;a href="#">https://acrobat.adobe.com/id/urn:aaid:sc:EU:69c3613d-6de3-4b56-8688-2b69b69b4544&lt;/a>
+&lt;strong>Résumé / Abstract&lt;/strong>: The proliferation of IoT devices necessitates energy-efficient AI solutions that balance computational demands with power constraints.&lt;/li>
+&lt;/ul>
+&lt;h3 id="2025-1">2025&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Implementation of Hybrid Spiking-Quantized Neural Networks on RISC-V for Resource-Constrained IoT Devices&lt;/strong>
+&lt;em>Elsevier to Microprocessors and Microsystems Journal&lt;/em>
+&lt;a href="#">https://acrobat.adobe.com/id/urn:aaid:sc:EU:23d45602-724f-4750-8140-85dd9a8cdd53&lt;/a>
+&lt;strong>Résumé / Abstract&lt;/strong>: This paper presents the implementation of a hybrid Spiking Neural Network (SNN) and Quantized Neural Network (QNN) on RISC-V architecture for resource-constrained IoT devices.&lt;/li>
+&lt;/ul></description></item></channel></rss>
