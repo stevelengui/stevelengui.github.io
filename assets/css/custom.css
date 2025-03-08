@@ -37,3 +37,21 @@
 .contact-form button:hover {
   background-color: #0056b3;
 }
+
+/* Réduire l'espace vide en haut de la page d'accueil */
+body {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Si le problème vient d'un header */
+header {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* S'assurer qu'il n'y a pas de marges internes ou externes */
+.container {
+  margin-top: 0;
+  padding-top: 0;
+}
