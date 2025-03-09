@@ -14,3 +14,8 @@ I am a PhD candidate in neuromorphic AI, specializing in the deployment of spiki
 - **Deployment of TinyML on open-source hardware accelerators**
 - **Energy consumption reduction through bio-inspired learning**
 
+### Contacts
+- **Email** : [stevelengui@gmail.com](mailto:stevelengui@gmail.com)
+- **GitHub** : [stevelengui](https://github.com/stevelengui)
+- **LinkedIn** : [Lengui Lengui Steve Charnot](https://www.linkedin.com/in/lengui-lengui-steve-charnot-172074178/)
+

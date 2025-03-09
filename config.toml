@@ -22,8 +22,10 @@ theme = "ananke"
 [params]
   description = "Site personnel de Steve Lengui, doctorant en IA neuromorphique pour IoT."
   author = "Steve Lengui"
-  github = "https://github.com/stevelengui"
-  linkedin = "https://linkedin.com/in/stevelengui"
+  socialIcons = [
+    { name = "GitHub", url = "https://github.com/stevelengui", icon = "fab fa-github" },
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/lengui-lengui-steve-charnot-172074178/", icon = "fab fa-linkedin" },
+    { name = "Email", url = "mailto:stevelengui@gmail.com", icon = "fas fa-envelope" }
 
 # Menu principal pour le français
 [[languages.fr.menu.main]]

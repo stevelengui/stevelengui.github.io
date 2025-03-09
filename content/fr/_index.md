@@ -14,3 +14,8 @@ Je suis doctorant en IA neuromorphique, spécialisé dans le déploiement de ré
 - **Déploiement de TinyML sur des accélérateurs matériels open-source**
 - **Réduction de la consommation d'énergie par l'apprentissage bio-inspiré**
 
+### Contacts
+- **Email** : [stevelengui@gmail.com](mailto:stevelengui@gmail.com)
+- **GitHub** : [stevelengui](https://github.com/stevelengui)
+- **LinkedIn** : [Lengui Lengui Steve Charnot](https://www.linkedin.com/in/lengui-lengui-steve-charnot-172074178/)
+
